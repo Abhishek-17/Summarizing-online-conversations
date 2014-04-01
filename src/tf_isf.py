@@ -88,10 +88,11 @@ def tf_isf(root):
 	return tfFinalList	
 
 
+if __name__=='__main__':
+	filepath="splitted/chunk0.xml"
+	tree = ET.parse(filepath)
+	root = tree.getroot()
+	tf_isf_feature = tf_isf(root)
+	print "hello"
+	print tf_isf_feature
 
-filepath="splitted/chunk0.xml"
-tree = ET.parse(filepath)
-root = tree.getroot()
-tf_isf_feature = tf_isf(root)
-
-#print tf_isf_feature
