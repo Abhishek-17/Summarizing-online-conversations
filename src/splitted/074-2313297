@@ -1,0 +1,211 @@
+  <thread>
+    <name>html to word to html question?</name>
+    <listno>074-2313297</listno>
+    <DOC>
+      <Received>Sat Dec 12 07:14:26 -0800 1998</Received>
+      <From>David Poehlman &lt;poehlman@clark.net&gt;</From>
+      <To>WAI Interest Group &lt;w3c-wai-ig@w3.org&gt;</To>
+      <Subject>html to word to html question?</Subject>
+      <Text>
+        <Sent id="1.1">I've heard that if you create a page with alt tags and bring it into word to edit it and then export it back to html that the alts are stripped? </Sent>
+        <Sent id="1.2">can anyone confirm or deny this? 
+</Sent>
+        <Sent id="1.3">Thanks! 
+</Sent>
+        <Sent id="1.4">-- 
+</Sent>
+        <Sent id="1.5">Hands-On Technolog(eye)s 
+</Sent>
+        <Sent id="1.6">Touching The Internet 
+</Sent>
+        <Sent id="1.7">ftp://ftp.clark.net/pub/poehlman 
+</Sent>
+        <Sent id="1.8">http://poehlman.clark.net 
+</Sent>
+        <Sent id="1.9">email: poehlman@clark.net 
+</Sent>
+        <Sent id="1.10">voice 301-949-7599 
+</Sent>
+        <Sent id="1.11">Dynamic Solutions Inc. 
+</Sent>
+        <Sent id="1.12">Best of Service for your small business network needs 
+</Sent>
+        <Sent id="1.13">http://www.dnsolutions.com</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Tue Dec 15 12:18:47 -0800 1998</Received>
+      <From>Chris Kreussling &lt;CHRIS.KREUSSLING@ny.frb.org&gt;</From>
+      <To>w3c-wai-ig@w3.org</To>
+      <Subject>Re: html to word to html question?</Subject>
+      <Text>
+        <Sent id="2.1">&amp;gt; I've heard that if you create a page with alt tags and bring it into word to edit it and then export it back to html that the alts are stripped? </Sent>
+        <Sent id="2.2">&amp;gt; can anyone confirm or deny this? </Sent>
+        <Sent id="2.3">&amp;gt; Thanks! </Sent>
+        <Sent id="2.4">I'm guessing you mean the ALT= attribute on the &amp;lt;IMG&amp;gt; tag? </Sent>
+        <Sent id="2.5">(There's no &amp;lt;/IMG&amp;gt;&amp;lt;ALT&amp;gt; tag.) </Sent>
+        <Sent id="2.6">That's about what I'd expect to happen, with Word or any other wordprocessor. </Sent>
+        <Sent id="2.7">I could test this on my system if you can confirm the scenario: </Sent>
+        <Sent id="2.8">- Start with an HTML document, created by any means. </Sent>
+        <Sent id="2.9">- The doc contains an &amp;lt;/ALT&amp;gt;&amp;lt;IMG&amp;gt; with the ALT= attribute. </Sent>
+        <Sent id="2.10">- The HTML doc is opened in Word and some text on the page is changed or added. </Sent>
+        <Sent id="2.11">- The page is &amp;quot;Saved as HTML&amp;quot; from Word, without first saving it in Word format. </Sent>
+        <Sent id="2.12">PS: *Why* would you use Word to edit an HTML document?! </Sent>
+        <Sent id="2.13">&amp;lt;/IMG&amp;gt;</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Tue Dec 15 12:33:54 -0800 1998</Received>
+      <From>Jamie Fox &lt;jfox@fenix2.dol-esa.gov&gt;</From>
+      <To>"'Chris Kreussling'" &lt;CHRIS.KREUSSLING@ny.frb.org&gt;</To>
+      <Cc>&lt;w3c-wai-ig@w3.org&gt;</Cc>
+      <Subject>RE: Why word?</Subject>
+      <Text>
+        <Sent id="3.1">Many people required to edit and create web pages and/or sites are not web professionals and the only "WYSIWYG" tool available to them is Word. </Sent>
+        <Sent id="3.2">I daresay that most people don't know HTML and are not going to learn it so that they can make an accessible page through a text editor. </Sent>
+        <Sent id="3.3">This is especially true if the only editing required of them is small such as changing the grammar on a web page or correcting spelling of a word. </Sent>
+        <Sent id="3.4">This is exactly why the authoring tools aspect of the WAI is so important. 
+</Sent>
+        <Sent id="3.5">-Jamie Fox 
+</Sent>
+        <Sent id="3.6">-----</Sent>
+        <Sent id="3.7">&gt; [snip] 
+</Sent>
+        <Sent id="3.8">&gt; PS: *Why* would you use Word to edit an HTML document?!</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Tue Dec 15 12:49:21 -0800 1998</Received>
+      <From>Alan Cantor &lt;acantor@oise.utoronto.ca&gt;</From>
+      <To>Chris Kreussling &lt;CHRIS.KREUSSLING@ny.frb.org&gt;</To>
+      <Subject>Re: html to word to html question?</Subject>
+      <Text>
+        <Sent id="4.1">&gt; PS: *Why* would you use Word to edit an HTML document?! 
+</Sent>
+        <Sent id="4.2">MS-Word has elegant text-editing commands that are absent from a basic text editor, and that make editing documents a pleasure. </Sent>
+        <Sent id="4.3">For example, you can quickly move entire lines or paragraphs without using the clipboard; 
+</Sent>
+        <Sent id="4.4">select words, sentences, and paragraphs by pressing a single key; </Sent>
+        <Sent id="4.5">and undo and redo 100 levels. </Sent>
+        <Sent id="4.6">All of the above can be done using keyboard and point-and-click techniques. </Sent>
+        <Sent id="4.7">So there is a lot of versatility. 
+</Sent>
+        <Sent id="4.8">Unfortunately, many of the really powerful Word commands are extremely poorly documented. 
+</Sent>
+        <Sent id="4.9">Furthermore, savvy Word users can create special-purpose editing commands in Visual Basic to enhance the usefulness of the word processor as a text editor. 
+</Sent>
+        <Sent id="4.10">Why use Word? </Sent>
+        <Sent id="4.11">Because it is a good tool for the job. 
+</Sent>
+        <Sent id="4.12">Alan</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Tue Dec 15 13:37:28 -0800 1998</Received>
+      <From>Charles McCathieNevile &lt;charles@w3.org&gt;</From>
+      <To>Chris Kreussling &lt;CHRIS.KREUSSLING@ny.frb.org&gt;</To>
+      <Subject>Re: html to word to html question?</Subject>
+      <Text>
+        <Sent id="5.1">I think that is exactly what needs to be tested. </Sent>
+        <Sent id="5.2">Cheers </Sent>
+        <Sent id="5.3">&amp;gt;&amp;gt; I've heard that if you create a page with alt tags and bring it into word to edit it and then export it back to html that the alts are stripped? </Sent>
+        <Sent id="5.4">&amp;gt;&amp;gt; can anyone confirm or deny this? </Sent>
+        <Sent id="5.5">&amp;gt;&amp;gt; Thanks! </Sent>
+        <Sent id="5.6">&amp;gt; I'm guessing you mean the ALT= attribute on the &amp;lt;IMG&amp;gt; tag? </Sent>
+        <Sent id="5.7">&amp;gt; (There's no &amp;lt;/IMG&amp;gt;&amp;lt;ALT&amp;gt; tag.) </Sent>
+        <Sent id="5.8">&amp;gt; That's about what I'd expect to happen, with Word or any other wordprocessor. </Sent>
+        <Sent id="5.9">&amp;gt; I could test this on my system if you can confirm the scenario: </Sent>
+        <Sent id="5.10">&amp;gt; - Start with an HTML document, created by any means. </Sent>
+        <Sent id="5.11">&amp;gt; - The doc contains an &amp;lt;/ALT&amp;gt;&amp;lt;IMG&amp;gt; with the ALT= attribute. </Sent>
+        <Sent id="5.12">&amp;gt; - The HTML doc is opened in Word and some text on the page is changed or added. </Sent>
+        <Sent id="5.13">&amp;gt; - The page is &amp;quot;Saved as HTML&amp;quot; from Word, without first saving it in Word format. </Sent>
+        <Sent id="5.14">&amp;gt; PS: *Why* would you use Word to edit an HTML document?! </Sent>
+        <Sent id="5.15">&amp;lt;/IMG&amp;gt;</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Tue Dec 15 13:45:55 -0800 1998</Received>
+      <From>Kynn Bartlett &lt;kynn-hwg@idyllmtn.com&gt;</From>
+      <To>Alan Cantor &lt;acantor@oise.utoronto.ca&gt;</To>
+      <Cc>Chris Kreussling &lt;CHRIS.KREUSSLING@ny.frb.org&gt; ,w3c-wai-ig@w3.org</Cc>
+      <Subject>Re: html to word to html question?</Subject>
+      <Text>
+        <Sent id="6.1">&gt; Why use Word? </Sent>
+        <Sent id="6.2">&gt; Because it is a good tool for the job. 
+</Sent>
+        <Sent id="6.3">BTW, Hot Metal Pro, a web editor tool that does pretty good on accessibility and valid HTML, has the ability to import Word files. </Sent>
+        <Sent id="6.4">My wife uses that regularly to convert City of Fullerton documents from Word to HTML, rather than cutting-and-pasting and marking up herself or trusting 'Save as HTML...' 
+</Sent>
+        <Sent id="6.5">-- 
+</Sent>
+        <Sent id="6.6">Kynn Bartlett &amp;lt;kynn@idyllmtn.com&amp;gt; http://www.idyllmtn.com/~kynn/ 
+</Sent>
+        <Sent id="6.7">Chief Technologist &amp;amp; Co-Owner, Idyll Mountain Internet; Fullerton, California 
+</Sent>
+        <Sent id="6.8">Enroll now for web accessibility with HTML 4.0! http://www.hwg.org/classes/ 
+</Sent>
+        <Sent id="6.9">The voice of the future? http://www.hwg.org/opcenter/w3c/voicebrowsers.html</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Tue Dec 15 14:16:40 -0800 1998</Received>
+      <From>Chris Kreussling &lt;CHRIS.KREUSSLING@ny.frb.org&gt;</From>
+      <To>w3c-wai-ig@w3.org</To>
+      <Subject>Re: html to word to html question?</Subject>
+      <Text>
+        <Sent id="7.1">&amp;gt;&amp;gt; I've heard that if you create a page with alt tags and bring it into word to edit it and then export it back to html that the alts are stripped? </Sent>
+        <Sent id="7.2">&amp;gt;&amp;gt; can anyone confirm or deny this? </Sent>
+        <Sent id="7.3">&amp;gt;&amp;gt; Thanks! </Sent>
+        <Sent id="7.4">&amp;gt; I'm guessing you mean the ALT= attribute on the &amp;lt;IMG&amp;gt; tag? </Sent>
+        <Sent id="7.5">&amp;gt; (There's no &amp;lt;/IMG&amp;gt;&amp;lt;ALT&amp;gt; tag.) </Sent>
+        <Sent id="7.6">&amp;gt; That's about what I'd expect to happen, with Word or any other wordprocessor. </Sent>
+        <Sent id="7.7">&amp;gt; I could test this on my system if you can confirm the scenario: </Sent>
+        <Sent id="7.8">&amp;gt; - Start with an HTML document, created by any means. </Sent>
+        <Sent id="7.9">&amp;gt; - The doc contains an &amp;lt;/ALT&amp;gt;&amp;lt;IMG&amp;gt; with the ALT= attribute. </Sent>
+        <Sent id="7.10">&amp;gt; - The HTML doc is opened in Word and some text on the page is changed or added. </Sent>
+        <Sent id="7.11">&amp;gt; - The page is &amp;quot;Saved as HTML&amp;quot; from Word, without first saving it in Word format. </Sent>
+        <Sent id="7.12">I could *not* re-create the problem described when I tested this on my own system using MS Word 97 for Windows. </Sent>
+        <Sent id="7.13">I followed the scenario with a simple test page (created in Netscape Page Composer) with a Heading, one line of text, and an image with ALT= text. </Sent>
+        <Sent id="7.14">I opened the HTML file in Word97, added one word to the text of the Heading, then saved the file back to HTML with a new name. </Sent>
+        <Sent id="7.15">The ALT= text was not affected. </Sent>
+        <Sent id="7.16">MS Word 97, at least, seems to recognize HTML and preserve it. </Sent>
+        <Sent id="7.17">Obviously, other versions of Word may behave differently. </Sent>
+        <Sent id="7.18">I suspect that *any* word processor would strip the ALT= text if you first save the document in its *native* format, then try to save it back to HTML. </Sent>
+        <Sent id="7.19">Chris Kreussling</Sent>
+        <Sent id="7.20">&amp;amp;lt;disclaimer&amp;amp;gt; The views expressed are those of the author and do not necessarily reflect the position of the Federal Reserve Bank of New York or the Federal Reserve System. &amp;amp;lt;/disclaimer&amp;amp;gt; </Sent>
+        <Sent id="7.21">&amp;lt;/IMG&amp;gt;</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Dec 16 07:56:53 -0800 1998</Received>
+      <From>Daniel Dardailler &lt;danield@w3.org&gt;</From>
+      <To>Chris Kreussling &lt;CHRIS.KREUSSLING@ny.frb.org&gt;</To>
+      <Subject>Re: html to word to html question?</Subject>
+      <Text>
+        <Sent id="8.1">&gt; I could test this on my system if you can confirm the scenario: 
+</Sent>
+        <Sent id="8.2">&gt; - Start with an HTML document, created by any means. 
+</Sent>
+        <Sent id="8.3">&gt; - The doc contains an &amp;lt;IMG&amp;gt; with the ALT= attribute. 
+</Sent>
+        <Sent id="8.4">&gt; - The HTML doc is opened in Word and some text on the page is changed or added. 
+</Sent>
+        <Sent id="8.5">&gt; - The page is "Saved as HTML" from Word, without first saving it in Word format. 
+</Sent>
+        <Sent id="8.6">I tried that with Word 97 and there was no lost of ALT. 
+</Sent>
+        <Sent id="8.7">I even tried saving the file as .doc format, copying it under a different name.doc, reopening it in Word and saving it in HTML, and the ALT were still present (which proves that the ALT are somehow stored in the doc format) 
+</Sent>
+        <Sent id="8.8">On the other hand, there was a lost of longdesc, link, and others new HTML4 table attributes; </Sent>
+        <Sent id="8.9">in fact, in looks like unknown attributes are pruned out, which shouldn't happen (unknown elements are kept, albeit mess up with, see below) 
+</Sent>
+        <Sent id="8.10">The DOCTYPE and the STYLE I had in this test file were moved from the top and the head to the body, which is really bad. 
+</Sent>
+        <Sent id="8.11">Anyway, join the WAI Authoring Tools working group if you're interested in that kind of issue. 
+</Sent>
+        <Sent id="8.12">&gt; PS: *Why* would you use Word to edit an HTML document?! 
+</Sent>
+        <Sent id="8.13">Because you use Windows ? (I use Unix)</Sent>
+      </Text>
+    </DOC>
+  </thread>

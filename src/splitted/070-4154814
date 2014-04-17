@@ -1,0 +1,140 @@
+  <thread>
+    <name>word comprhension</name>
+    <listno>070-4154814</listno>
+    <DOC>
+      <Received>Wed Mar 27 19:08:21 -0800 2002</Received>
+      <From>Steven.Faulkner@visionaustralia.org.au &lt;Steven.Faulkner@visionaustralia.org.au&gt;</From>
+      <To>w3c-wai-gl@w3.org</To>
+      <Subject>word comprhension</Subject>
+      <Text>
+        <Sent id="1.1">I have noticed that when using a screen reading browser such as IBM homepage reader when words are joined together for example &amp;quot;homepage&amp;quot; the words &amp;quot;home&amp;quot; and &amp;quot;page&amp;quot; are not recognised, as a consequence the joined words become incomprehensible to the screenreading software. </Sent>
+        <Sent id="1.2">I haven't found any references to this within the gudielines. </Sent>
+        <Sent id="1.3">have i missed them?</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Mar 27 19:30:43 -0800 2002</Received>
+      <From>Charles McCathieNevile &lt;charles@w3.org&gt;</From>
+      <To>&lt;Steven.Faulkner@visionaustralia.org.au&gt;</To>
+      <Subject>Re: word comprhension</Subject>
+      <Text>
+        <Sent id="2.1">14.1 Use the clearest and simplest language appropriate... [priority 1] </Sent>
+        <Sent id="2.2">Of course at some point speech technology needs to learn how to deal with common but new terms in a language. </Sent>
+        <Sent id="2.3">Homepage is one that I would expect to work - especially in a product whose name includes the term. </Sent>
+        <Sent id="2.4">But Text to Speech is an inexact science - even people who are experts cannot agree to pronounce words the same way. </Sent>
+        <Sent id="2.5">Just ask a well-trained and very literate American chemist what the eleme whose symbol is Al is called - they tell you about a thing called &amp;quot;aluminum&amp;quot;. </Sent>
+        <Sent id="2.6">But they are in fact referring to what any Australian voice recogniser would expect to hear as al-(y)a-min-(i)-yum. </Sent>
+        <Sent id="2.7">The problem is funnier (after people get over the inconvenience of learning about it) when a screen reader uses a finnish or swedish synthesiser but provides its cues and prompts in english... </Sent>
+        <Sent id="2.8">cheers </Sent>
+        <Sent id="2.9">Chaalls </Sent>
+        <Sent id="2.10">&amp;gt; I have noticed that when using a screen reading browser such as IBM homepage reader when words are joined together for example &amp;quot;homepage&amp;quot; the words &amp;quot;home&amp;quot; and &amp;quot;page&amp;quot; are not recognised, as a consequence the joined words become incomprehensible to the screenreading software. </Sent>
+        <Sent id="2.11">&amp;gt; I haven't found any references to this within the gudielines. </Sent>
+        <Sent id="2.12">&amp;gt; have i missed them? </Sent>
+        <Sent id="2.13">-- </Sent>
+        <Sent id="2.14">Charles McCathieNevile http://www.w3.org/People/Charles phone: +61 409 134 136 </Sent>
+        <Sent id="2.15">W3C Web Accessibility Initiative http://www.w3.org/WAI fax: +33 4 92 38 78 22 </Sent>
+        <Sent id="2.16">Location: 21 Mitchell street FOOTSCRAY Vic 3011, Australia </Sent>
+        <Sent id="2.17">(or W3C INRIA, Route des Lucioles, BP 93, 06902 Sophia Antipolis Cedex, France)</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Mar 27 21:07:04 -0800 2002</Received>
+      <From>Al Gilman &lt;asgilman@iamdigex.net&gt;</From>
+      <To>w3c-wai-gl@w3.org</To>
+      <Subject>Re: word comprhension</Subject>
+      <Text>
+        <Sent id="3.1">&amp;gt; I have noticed that when using a screen reading browser such as IBM homepage reader when words are joined together for example &amp;quot;homepage&amp;quot; the words &amp;quot;home&amp;quot; and &amp;quot;page&amp;quot; are not recognised, as a consequence the joined words become incomprehensible to the screenreading software. </Sent>
+        <Sent id="3.2">&amp;gt; I haven't found any references to this within the gudielines. </Sent>
+        <Sent id="3.3">&amp;gt; have i missed them? </Sent>
+        <Sent id="3.4">No, it's not obvious at all. </Sent>
+        <Sent id="3.5">Yes, when in doubt, hypenate compounds if you have any doubt as to how long they have been in the language. </Sent>
+        <Sent id="3.6">Some screen readers will successfully divide camelCase agglutinations. </Sent>
+        <Sent id="3.7">I don't know how widespread this is, though. </Sent>
+        <Sent id="3.8">You would have to have the memory of an elephant to pull up the following flames. </Sent>
+        <Sent id="3.9">But they do touch on text-to-speech, along with lay persons, people operating in a second language, and others with reading difficulty as at risk on account of unusual words including neologisms: </Sent>
+        <Sent id="3.10">http://lists.w3.org/Archives/Public/w3c-wai-er-ig/2000Dec/0079.html </Sent>
+        <Sent id="3.11">http://lists.w3.org/Archives/Public/w3c-wai-gl/2001JulSep/0542.html </Sent>
+        <Sent id="3.12">The point is to have and apply a reasonably small word list and handle those things that fall outside this list as special. </Sent>
+        <Sent id="3.13">My spell-checker in Eudora 4 bounces 'homepage' and suggests &amp;quot;home page&amp;quot; as a possible correction. </Sent>
+        <Sent id="3.14">Need we say more? </Sent>
+        <Sent id="3.15">It could be as simple as &amp;lt;acronym title=&amp;quot;home page&amp;quot;&amp;gt; homepage &amp;lt;/acronym&amp;gt; although purists will yell at me. </Sent>
+        <Sent id="3.16">Al </Sent>
+        <Sent id="3.17">Al</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Thu Mar 28 03:12:47 -0800 2002</Received>
+      <From>jonathan chetwynd &lt;j.chetwynd@btinternet.com&gt;</From>
+      <To>Al Gilman &lt;asgilman@iamdigex.net&gt;</To>
+      <Subject>Re: word comprhension</Subject>
+      <Text>
+        <Sent id="4.1">There is probably a good argument for raising the issue of proper names. </Sent>
+        <Sent id="4.2">In my brief experience it seems that common dictionary words are read well enough. </Sent>
+        <Sent id="4.3">However it seems that people and place names are not. </Sent>
+        <Sent id="4.4">These are the very words that are of greatest interest. </Sent>
+        <Sent id="4.5">it would also be great to see a decent ua that offered alternative readings (as per spell checker example), a memorise function, and possibly the opportunity to share the choice with a public database. </Sent>
+        <Sent id="4.6">Perhaps somone knows of this? </Sent>
+        <Sent id="4.7">thanks</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Thu Mar 28 09:37:18 -0800 2002</Received>
+      <From>Charles McCathieNevile &lt;charles@w3.org&gt;</From>
+      <To>jonathan chetwynd &lt;j.chetwynd@btinternet.com&gt;</To>
+      <Subject>Re: word comprhension</Subject>
+      <Text>
+        <Sent id="5.1">It would appear that this is readily available using Speech synthesis markup language and XSLT (or XSLT 2 perhaps)... </Sent>
+        <Sent id="5.2">or someone can make smarter and smarter speech synthessisers. </Sent>
+        <Sent id="5.3">If Audio CSS allowed something equivalent to SSML's say-as propoerty, we would be closer perhaps. </Sent>
+        <Sent id="5.4">Cheers </Sent>
+        <Sent id="5.5">Chaals </Sent>
+        <Sent id="5.6">&amp;gt; There is probably a good argument for raising the issue of proper names. </Sent>
+        <Sent id="5.7">&amp;gt; In my brief experience it seems that common dictionary words are read well enough. </Sent>
+        <Sent id="5.8">&amp;gt; However it seems that people and place names are not. </Sent>
+        <Sent id="5.9">&amp;gt; These are the very words that are of greatest interest. </Sent>
+        <Sent id="5.10">&amp;gt; it would also be great to see a decent ua that offered alternative readings (as per spell checker example), a memorise function, and possibly the opportunity to share the choice with a public database. </Sent>
+        <Sent id="5.11">&amp;gt; Perhaps somone knows of this? </Sent>
+        <Sent id="5.12">&amp;gt; thanks </Sent>
+        <Sent id="5.13">-- </Sent>
+        <Sent id="5.14">Charles McCathieNevile http://www.w3.org/People/Charles phone: +61 409 134 136 </Sent>
+        <Sent id="5.15">W3C Web Accessibility Initiative http://www.w3.org/WAI fax: +33 4 92 38 78 22 </Sent>
+        <Sent id="5.16">Location: 21 Mitchell street FOOTSCRAY Vic 3011, Australia </Sent>
+        <Sent id="5.17">(or W3C INRIA, Route des Lucioles, BP 93, 06902 Sophia Antipolis Cedex, France)</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Thu Mar 28 10:04:05 -0800 2002</Received>
+      <From>Al Gilman &lt;asgilman@iamdigex.net&gt;</From>
+      <To>Charles McCathieNevile &lt;charles@w3.org&gt; , jonathan chetwynd &lt;j.chetwynd@btinternet.com&gt;</To>
+      <Cc>&lt;w3c-wai-gl@w3.org&gt;</Cc>
+      <Subject>Re: word comprhension</Subject>
+      <Text>
+        <Sent id="6.1">&amp;gt; It would appear that this is readily available using Speech synthesis markup language and XSLT (or XSLT 2 perhaps)... </Sent>
+        <Sent id="6.2">&amp;gt; or someone can make smarter and smarter speech synthessisers. </Sent>
+        <Sent id="6.3">&amp;gt; If Audio CSS allowed something equivalent to SSML's say-as propoerty, we would be closer perhaps. </Sent>
+        <Sent id="6.4">Sorry, you are missing the main brunt of Jonathan's remarks. </Sent>
+        <Sent id="6.5">Yes, SSML, modularized, provides the WCAG piece. </Sent>
+        <Sent id="6.6">But who/how accesses the dictionary? </Sent>
+        <Sent id="6.7">One of the creative things he raises is uploading your pronunciation repairs to the community. </Sent>
+        <Sent id="6.8">What Annotea would like to do. </Sent>
+        <Sent id="6.9">But personal data is in LDAP today, not RDF. </Sent>
+        <Sent id="6.10">So we need LDAP bindings for the SSML. </Sent>
+        <Sent id="6.11">To make the web whole. </Sent>
+        <Sent id="6.12">Al </Sent>
+        <Sent id="6.13">&amp;gt; Cheers </Sent>
+        <Sent id="6.14">&amp;gt; Chaals </Sent>
+        <Sent id="6.15">&amp;gt;&amp;gt; There is probably a good argument for raising the issue of proper names. </Sent>
+        <Sent id="6.16">&amp;gt;&amp;gt; In my brief experience it seems that common dictionary words are read well enough. </Sent>
+        <Sent id="6.17">&amp;gt;&amp;gt; However it seems that people and place names are not. </Sent>
+        <Sent id="6.18">&amp;gt;&amp;gt; These are the very words that are of greatest interest. </Sent>
+        <Sent id="6.19">&amp;gt;&amp;gt; it would also be great to see a decent ua that offered alternative readings (as per spell checker example), a memorise function, and possibly the opportunity to share the choice with a public database. </Sent>
+        <Sent id="6.20">&amp;gt;&amp;gt; Perhaps somone knows of this? </Sent>
+        <Sent id="6.21">&amp;gt;&amp;gt; thanks </Sent>
+        <Sent id="6.22">&amp;gt; -- </Sent>
+        <Sent id="6.23">&amp;gt; Charles McCathieNevile http://www.w3.org/People/Charles phone: +61 409 134 136 </Sent>
+        <Sent id="6.24">&amp;gt; W3C Web Accessibility Initiative http://www.w3.org/WAI fax: +33 4 92 38 78 22 </Sent>
+        <Sent id="6.25">&amp;gt; Location: 21 Mitchell street FOOTSCRAY Vic 3011, Australia </Sent>
+        <Sent id="6.26">&amp;gt; (or W3C INRIA, Route des Lucioles, BP 93, 06902 Sophia Antipolis Cedex, France)</Sent>
+      </Text>
+    </DOC>
+  </thread>

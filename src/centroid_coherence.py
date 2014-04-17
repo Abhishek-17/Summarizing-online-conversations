@@ -2,19 +2,24 @@ from tf_isf import tf_isf
 import xml.etree.ElementTree as ET
 import re
 from math import sqrt
+import decimal
 
-def centroid_coherence(filepath):#path of chunk.xml
+def centroid_coherence(root):#path of chunk.xml
 	#return a list of list which contains the centroid-coherence of each sentence. Each sublist represents a doc in the chunk
 
-	tree = ET.parse(filepath)
-	root = tree.getroot()
-	tf_isf_feature = tf_isf(root)
-		#tf-isf
+	#tree = ET.parse(filepath)
+	#root = tree.getroot()
+	tf_isf_feature,sent_ids = tf_isf(root)
+
+		#tf_isf_feature
 		#[[{},{},{}..],[],[],..]
-		#returns list which contains list of dictionaries.
+		#list which contains list of dictionaries.
 		# the list represents a whole chunk
 		# the sublist represent a doc
 		# the dictionaries have (word:tf-isf) key-pair
+
+		#sent_ids
+		#list of list conatining sentence ids
 
 	#print tf_isf_feature
 	centroid=[] # contains centroid(a dictionary of word - meanTf-isf) of each doc of the chunk  [{},{},{}..]
@@ -53,10 +58,17 @@ def centroid_coherence(filepath):#path of chunk.xml
 			similarity/=(deno*1.0)
 			coherence_temp.append(similarity)
 		coherence.append(coherence_temp)
-	return coherence
+	#print coherence
+	#print sent_ids
 
-if __name__=="__main__":
-	print centroid_coherence("splitted/chunk0.xml")
+	#-----------------------------------------add id
+	ans={}
+
+	for i,sublist in enumerate(coherence):#doc
+		for j,score in enumerate(sublist):#sentence
+			ans[sent_ids[i][j]]=round(decimal.Decimal(score),4)
+	return ans #dictionary of sent-id: coherence
+
 
 
 

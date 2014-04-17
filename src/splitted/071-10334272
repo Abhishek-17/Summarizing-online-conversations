@@ -1,0 +1,178 @@
+  <thread>
+    <name>Acrobat 6.0 Question</name>
+    <listno>071-10334272</listno>
+    <DOC>
+      <Received>Fri Sep 26 20:22:23 -0700 2003</Received>
+      <From>Doyle Burnett &lt;dburnett@sesa.org&gt;</From>
+      <To>W3C Web Content &lt;w3c-wai-gl@w3.org&gt;</To>
+      <Subject>Acrobat 6.0 Question</Subject>
+      <Text>
+        <Sent id="1.1">Quick question. </Sent>
+        <Sent id="1.2">In earlier versions of Acrobat, it was not possible to make PDF files accessible if the files were actually developed on a Macintosh. 
+</Sent>
+        <Sent id="1.3">Is this still the case with the latest version of Acrobat for the Mac (version 6.0, I believe)? 
+</Sent>
+        <Sent id="1.4">Thanks for any information. 
+</Sent>
+        <Sent id="1.5">Doyle 
+</Sent>
+        <Sent id="1.6">Doyle Burnett 
+</Sent>
+        <Sent id="1.7">Education and Training Specialist 
+</Sent>
+        <Sent id="1.8">Multiple Disabilities Program 
+</Sent>
+        <Sent id="1.9">Special Education Service Agency 
+</Sent>
+        <Sent id="1.10">dburnett@sesa.org 
+</Sent>
+        <Sent id="1.11">Www.sesa.org 
+</Sent>
+        <Sent id="1.12">--</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Sep 26 20:26:08 -0700 2003</Received>
+      <From>Loretta Guarino Reid &lt;lguarino@adobe.com&gt;</From>
+      <To>Doyle Burnett &lt;dburnett@sesa.org&gt;</To>
+      <Cc>W3C Web Content &lt;w3c-wai-gl@w3.org&gt;</Cc>
+      <Subject>Re: Acrobat 6.0 Question</Subject>
+      <Text>
+        <Sent id="2.1">Doyle, 
+</Sent>
+        <Sent id="2.2">The Make Accessible command is now available in Acrobat Pro 6.0 for the Mac as well as for Windows. 
+</Sent>
+        <Sent id="2.3">Loretta 
+</Sent>
+        <Sent id="2.4">&gt; Quick question. </Sent>
+        <Sent id="2.5">&gt; In earlier versions of Acrobat, it was not possible to make PDF files accessible if the files were actually developed on a Macintosh. 
+</Sent>
+        <Sent id="2.6">&gt; Is this still the case with the latest version of Acrobat for the Mac (version 6.0, I believe)? 
+</Sent>
+        <Sent id="2.7">&gt; Thanks for any information. 
+</Sent>
+        <Sent id="2.8">&gt; Doyle 
+</Sent>
+        <Sent id="2.9">&gt; Doyle Burnett 
+</Sent>
+        <Sent id="2.10">&gt; Education and Training Specialist 
+</Sent>
+        <Sent id="2.11">&gt; Multiple Disabilities Program 
+</Sent>
+        <Sent id="2.12">&gt; Special Education Service Agency 
+</Sent>
+        <Sent id="2.13">&gt; dburnett@sesa.org 
+</Sent>
+        <Sent id="2.14">&gt; Www.sesa.org 
+</Sent>
+        <Sent id="2.15">&gt; --</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Sep 26 20:32:02 -0700 2003</Received>
+      <From>Loretta Guarino Reid &lt;lguarino@adobe.com&gt;</From>
+      <To>Doyle Burnett &lt;dburnett@sesa.org&gt;</To>
+      <Cc>W3C Web Content &lt;w3c-wai-gl@w3.org&gt;</Cc>
+      <Subject>Re: Acrobat 6.0 Question</Subject>
+      <Text>
+        <Sent id="3.1">A clarification: </Sent>
+        <Sent id="3.2">it is available in both Acrobat 6.0 Professional and Acrobat 6.0 Standard, for the Mac and Windows. 
+</Sent>
+        <Sent id="3.3">&gt; Doyle, 
+</Sent>
+        <Sent id="3.4">&gt; The Make Accessible command is now available in Acrobat Pro 6.0 for the Mac as well as for Windows. 
+</Sent>
+        <Sent id="3.5">&gt; Loretta 
+</Sent>
+        <Sent id="3.6">&gt;&gt; Quick question. </Sent>
+        <Sent id="3.7">&gt;&gt; In earlier versions of Acrobat, it was not possible to make PDF files accessible if the files were actually developed on a Macintosh. 
+</Sent>
+        <Sent id="3.8">&gt;&gt; Is this still the case with the latest version of Acrobat for the Mac (version 6.0, I believe)? 
+</Sent>
+        <Sent id="3.9">&gt;&gt; Thanks for any information. 
+</Sent>
+        <Sent id="3.10">&gt;&gt; Doyle 
+</Sent>
+        <Sent id="3.11">&gt;&gt; Doyle Burnett 
+</Sent>
+        <Sent id="3.12">&gt;&gt; Education and Training Specialist 
+</Sent>
+        <Sent id="3.13">&gt;&gt; Multiple Disabilities Program 
+</Sent>
+        <Sent id="3.14">&gt;&gt; Special Education Service Agency 
+</Sent>
+        <Sent id="3.15">&gt;&gt; dburnett@sesa.org 
+</Sent>
+        <Sent id="3.16">&gt;&gt; Www.sesa.org 
+</Sent>
+        <Sent id="3.17">&gt;&gt; --</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Mon Sep 29 09:15:19 -0700 2003</Received>
+      <From>Sailesh Panchang &lt;sailesh.panchang@deque.com&gt;</From>
+      <To>"Doyle Burnett" &lt;dburnett@sesa.org&gt; ,"Loretta Guarino Reid" &lt;lguarino@adobe.com&gt;</To>
+      <Cc>"W3C Web Content" &lt;w3c-wai-gl@w3.org&gt;</Cc>
+      <Subject>Re: Acrobat 6.0 Question</Subject>
+      <Text>
+        <Sent id="4.1">Hello Loretta/Doyle, 
+</Sent>
+        <Sent id="4.2">I am just not sure what the Make Accessible feature really does. </Sent>
+        <Sent id="4.3">I am a JAWS user and a PDF file is as usable or unusable as it was before I run the Make Accessible feature on it. </Sent>
+        <Sent id="4.4">I'll be glad if you can enlighten me on this. </Sent>
+        <Sent id="4.5">Sailesh 
+</Sent>
+        <Sent id="4.6">&gt; Doyle, 
+</Sent>
+        <Sent id="4.7">&gt; The Make Accessible command is now available in Acrobat Pro 6.0 for the Mac as well as for Windows. 
+</Sent>
+        <Sent id="4.8">&gt; Loretta 
+</Sent>
+        <Sent id="4.9">&gt;&gt; Quick question. </Sent>
+        <Sent id="4.10">&gt;&gt; In earlier versions of Acrobat, it was not possible to make PDF files accessible if the files were actually developed on a Macintosh. 
+</Sent>
+        <Sent id="4.11">&gt;&gt; Is this still the case with the latest version of Acrobat for the Mac (version 6.0, I believe)? 
+</Sent>
+        <Sent id="4.12">&gt;&gt; Thanks for any information. 
+</Sent>
+        <Sent id="4.13">&gt;&gt; Doyle 
+</Sent>
+        <Sent id="4.14">&gt;&gt; Doyle Burnett 
+</Sent>
+        <Sent id="4.15">&gt;&gt; Education and Training Specialist 
+</Sent>
+        <Sent id="4.16">&gt;&gt; Multiple Disabilities Program 
+</Sent>
+        <Sent id="4.17">&gt;&gt; Special Education Service Agency 
+</Sent>
+        <Sent id="4.18">&gt;&gt; dburnett@sesa.org 
+</Sent>
+        <Sent id="4.19">&gt;&gt; Www.sesa.org 
+</Sent>
+        <Sent id="4.20">&gt;&gt; --</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Mon Sep 29 10:19:57 -0700 2003</Received>
+      <From>Loretta Guarino Reid &lt;lguarino@adobe.com&gt;</From>
+      <To>"Sailesh Panchang" &lt;sailesh.panchang@deque.com&gt;</To>
+      <Cc>"W3C Web Content" &lt;w3c-wai-gl@w3.org&gt;</Cc>
+      <Subject>Re: Acrobat 6.0 Question</Subject>
+      <Text>
+        <Sent id="5.1">Sailesh, 
+</Sent>
+        <Sent id="5.2">Make Accessible is a command that attempts to analyze an untagged PDF file and infer logical structure from the marks on the page. </Sent>
+        <Sent id="5.3">This would be used by an author who is trying to repair accessibility problems in an existing PDF file. </Sent>
+        <Sent id="5.4">The best analogy is that it is doing OCR on the logical strucure. </Sent>
+        <Sent id="5.5">Like OCR technology, it is imperfect, and the results should be reviewed and corrected, if necessary, by the author. 
+</Sent>
+        <Sent id="5.6">In Acrobat 5, this command was only available on Windows. </Sent>
+        <Sent id="5.7">In Acrobat 6, it is available for both Mac and Windows. 
+</Sent>
+        <Sent id="5.8">When the Adobe Reader 6.0 is presenting an untagged PDF file to assistive technology, it automatically runs MakeAccessible internally to infer logical structure. </Sent>
+        <Sent id="5.9">This can make loading an untagged PDF considerably slower than loading a tagged PDF, but makes it possible, for example, to read tables even in an untagged PDF. 
+</Sent>
+        <Sent id="5.10">Loretta</Sent>
+      </Text>
+    </DOC>
+  </thread>

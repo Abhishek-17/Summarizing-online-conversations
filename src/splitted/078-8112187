@@ -1,0 +1,135 @@
+  <thread>
+    <name>aural style sheets</name>
+    <listno>078-8112187</listno>
+    <DOC>
+      <Received>Wed Mar 13 12:13:42 -0800 2002</Received>
+      <From>Laura Carlson &lt;lcarlson@d.umn.edu&gt;</From>
+      <To>"W3c-Wai-Ig (E-mail)" &lt;w3c-wai-ig@w3.org&gt;</To>
+      <Subject>aural style sheets</Subject>
+      <Text>
+        <Sent id="1.1">I don't know of any screen-readers or speaking browsers that support aural style sheets. </Sent>
+        <Sent id="1.2">Does anyone? </Sent>
+        <Sent id="1.3">Thanks, </Sent>
+        <Sent id="1.4">Laura </Sent>
+        <Sent id="1.5">_________________________________________________________________ </Sent>
+        <Sent id="1.6">Laura L. Carlson </Sent>
+        <Sent id="1.7">Information Technology Systems and Services </Sent>
+        <Sent id="1.8">University of Minnesota Duluth </Sent>
+        <Sent id="1.9">Duluth, MN 55812-3009 </Sent>
+        <Sent id="1.10">mailto:lcarlson@d.umn.edu</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Mar 13 13:15:35 -0800 2002</Received>
+      <From>Charles McCathieNevile &lt;charles@w3.org&gt;</From>
+      <To>Laura Carlson &lt;lcarlson@d.umn.edu&gt;</To>
+      <Subject>Re: aural style sheets</Subject>
+      <Text>
+        <Sent id="2.1">Emacspeak. </Sent>
+        <Sent id="2.2">I also know of a project that may soon produce another one. </Sent>
+        <Sent id="2.3">Chaals </Sent>
+        <Sent id="2.4">&amp;gt; I don't know of any screen-readers or speaking browsers that support aural style sheets. </Sent>
+        <Sent id="2.5">&amp;gt; Does anyone? </Sent>
+        <Sent id="2.6">&amp;gt; Thanks, </Sent>
+        <Sent id="2.7">&amp;gt; Laura </Sent>
+        <Sent id="2.8">&amp;gt; _________________________________________________________________ </Sent>
+        <Sent id="2.9">&amp;gt; Laura L. Carlson </Sent>
+        <Sent id="2.10">&amp;gt; Information Technology Systems and Services </Sent>
+        <Sent id="2.11">&amp;gt; University of Minnesota Duluth </Sent>
+        <Sent id="2.12">&amp;gt; Duluth, MN 55812-3009 </Sent>
+        <Sent id="2.13">&amp;gt; mailto:lcarlson@d.umn.edu </Sent>
+        <Sent id="2.14">-- </Sent>
+        <Sent id="2.15">Charles McCathieNevile http://www.w3.org/People/Charles phone: +61 409 134 136 </Sent>
+        <Sent id="2.16">W3C Web Accessibility Initiative http://www.w3.org/WAI fax: +33 4 92 38 78 22 </Sent>
+        <Sent id="2.17">Location: 21 Mitchell street FOOTSCRAY Vic 3011, Australia </Sent>
+        <Sent id="2.18">(or W3C INRIA, Route des Lucioles, BP 93, 06902 Sophia Antipolis Cedex, France)</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Mar 13 15:25:21 -0800 2002</Received>
+      <From>Danny Ayers &lt;danny666@virgilio.it&gt;</From>
+      <To>"Charles McCathieNevile" &lt;charles@w3.org&gt;</To>
+      <Cc>"W3c-Wai-Ig \(E-mail\)" &lt;w3c-wai-ig@w3.org&gt;</Cc>
+      <Subject>RE: aural style sheets</Subject>
+      <Text>
+        <Sent id="3.1">&amp;gt; Emacspeak. </Sent>
+        <Sent id="3.2">Will this run on Windows (using Cygwin?)? </Sent>
+        <Sent id="3.3">Danny.</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Mar 13 15:41:16 -0800 2002</Received>
+      <From>David Poehlman &lt;poehlman1@comcast.net&gt;</From>
+      <To>"Danny Ayers" &lt;danny666@virgilio.it&gt; ,"Charles McCathieNevile" &lt;charles@w3.org&gt;</To>
+      <Cc>"W3c-Wai-Ig \(E-mail\)" &lt;w3c-wai-ig@w3.org&gt;</Cc>
+      <Subject>Re: aural style sheets</Subject>
+      <Text>
+        <Sent id="4.1">pwwebspeak used to use them. </Sent>
+        <Sent id="4.2">&amp;gt;&amp;gt; Emacspeak. </Sent>
+        <Sent id="4.3">&amp;gt; Will this run on Windows (using Cygwin?)? </Sent>
+        <Sent id="4.4">&amp;gt; Danny.</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Thu Mar 14 07:33:04 -0800 2002</Received>
+      <From>Charles McCathieNevile &lt;charles@w3.org&gt;</From>
+      <To>Danny Ayers &lt;danny666@virgilio.it&gt;</To>
+      <Subject>RE: aural style sheets</Subject>
+      <Text>
+        <Sent id="5.1">Well, there is apparently a project to make it run under Windows in Japanese as well as english, but my japanese is not good enough to read the explanation pages. </Sent>
+        <Sent id="5.2">Anyone out there who can help? </Sent>
+        <Sent id="5.3">&amp;gt;&amp;gt; Emacspeak. </Sent>
+        <Sent id="5.4">&amp;gt; Will this run on Windows (using Cygwin?)? </Sent>
+        <Sent id="5.5">&amp;gt; Danny. </Sent>
+        <Sent id="5.6">-- </Sent>
+        <Sent id="5.7">Charles McCathieNevile http://www.w3.org/People/Charles phone: +61 409 134 136 </Sent>
+        <Sent id="5.8">W3C Web Accessibility Initiative http://www.w3.org/WAI fax: +33 4 92 38 78 22 </Sent>
+        <Sent id="5.9">Location: 21 Mitchell street FOOTSCRAY Vic 3011, Australia </Sent>
+        <Sent id="5.10">(or W3C INRIA, Route des Lucioles, BP 93, 06902 Sophia Antipolis Cedex, France)</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Thu Mar 14 07:47:11 -0800 2002</Received>
+      <From>Masayasu Ishikawa &lt;mimasa@w3.org&gt;</From>
+      <To>w3c-wai-ig@w3.org</To>
+      <Subject>Re: aural style sheets</Subject>
+      <Text>
+        <Sent id="6.1">&amp;gt; Well, there is apparently a project to make it run under Windows in Japanese as well as english, but my japanese is not good enough to read the explanation pages. </Sent>
+        <Sent id="6.2">How about this: </Sent>
+        <Sent id="6.3">VOICE WINDOWS AND VOICE MEADOW; </Sent>
+        <Sent id="6.4">MULTILINGUAL TEXT-TO-SPEECH SYSTEM FOR WINDOWS(R) 98 </Sent>
+        <Sent id="6.5">http://www.csun.edu/cod/conf2000/proceedings/0050Watanabe.html </Sent>
+        <Sent id="6.6">Note: &amp;quot;Meadow&amp;quot; stands for &amp;quot;Multilingual Enhancement to gnu Emacs with ADvantages Over Windows&amp;quot;. </Sent>
+        <Sent id="6.7">Regards, </Sent>
+        <Sent id="6.8">-- </Sent>
+        <Sent id="6.9">Masayasu Ishikawa / mimasa@w3.org </Sent>
+        <Sent id="6.10">W3C - World Wide Web Consortium</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Thu Mar 14 20:05:14 -0800 2002</Received>
+      <From>Access Systems &lt;accessys@smart.net&gt;</From>
+      <To>Charles McCathieNevile &lt;charles@w3.org&gt;</To>
+      <Subject>RE: aural style sheets</Subject>
+      <Text>
+        <Sent id="7.1">&amp;gt; Well, there is apparently a project to make it run under Windows in Japanese as well as english, but my japanese is not good enough to read the explanation pages. </Sent>
+        <Sent id="7.2">what is the URL, </Sent>
+        <Sent id="7.3">although my Japanese is rusty I do have my Linux box set up to read and write the code. </Sent>
+        <Sent id="7.4">Bob </Sent>
+        <Sent id="7.5">&amp;gt; Anyone out there who can help? </Sent>
+        <Sent id="7.6">&amp;gt;&amp;gt;&amp;gt; Emacspeak. </Sent>
+        <Sent id="7.7">&amp;gt;&amp;gt; Will this run on Windows (using Cygwin?)? </Sent>
+        <Sent id="7.8">&amp;gt;&amp;gt; Danny. </Sent>
+        <Sent id="7.9">ASCII Ribbon Campaign accessBob </Sent>
+        <Sent id="7.10">NO HTML/PDF/RTF in e-mail accessys@smartnospam.net </Sent>
+        <Sent id="7.11">NO MSWord docs in e-mail Access Systems, engineers </Sent>
+        <Sent id="7.12">NO attachments in e-mail, *LINUX powered* access is a civil right </Sent>
+        <Sent id="7.13">*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*# </Sent>
+        <Sent id="7.14">THIS message and any attachments are CONFIDENTIAL and may be privileged. </Sent>
+        <Sent id="7.15">They are intended ONLY for the individual or entity named above. </Sent>
+        <Sent id="7.16">If you are not the intended recipient, Please notify the sender as soon as possible. </Sent>
+        <Sent id="7.17">Please DO NOT READ, COPY, USE, or DISCLOSE this communication to others and DELETE it from your computer systems. </Sent>
+        <Sent id="7.18">Thanks</Sent>
+      </Text>
+    </DOC>
+  </thread>

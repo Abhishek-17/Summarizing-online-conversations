@@ -1,27 +1,20 @@
 import xml.etree.ElementTree as ET
 import re
 import math
-import decimal
-
 
 tf_isf_feature = []
 
-def tf_isf(root,merge=0): 
+def tf_isf2(root): 
 	tfFinalList = []
 	df_dictionary = {}
 	idf_dictionary = {}
 	doc_sent_count = []
 	doc_count = 0
-	sent_ids=[]
 	for doc in root.iter('DOC'):
 		tf_per_sent_list = []
 		n_sentences = 0
-		idlst=[]
-
 		for text in doc.iter('Text'):
 			for sentence in text.iter('Sent'):
-				id=sentence.attrib['id']
-				idlst.append(id)
 				n_sentences = n_sentences + 1
 				tf_sent_dict = {}
 				sentence.text = sentence.text.lower()
@@ -35,9 +28,6 @@ def tf_isf(root,merge=0):
 						else:
 							tf_sent_dict.update({keyword:1})
 				tf_per_sent_list.append(tf_sent_dict)
-
-		sent_ids.append(idlst)#sentence ids 
-
 		tfFinalList.append(tf_per_sent_list)
 		doc_sent_count.append(n_sentences)
 	
@@ -78,7 +68,6 @@ def tf_isf(root,merge=0):
 		isf_list.append(isf_dict)
 		
 		
-	#print isf_list[0]
 	
 	id = 0
 	for doc in tfFinalList:
@@ -91,38 +80,16 @@ def tf_isf(root,merge=0):
 					sentdic[w] = 0	
 	id = id + 1
 					
-	#print tfFinalList[0]				
-	#print sf_list[1]	
-	#print tfFinalList[0]
-	if merge==0:
-		return tfFinalList,sent_ids	
-	else:
-		ans={}
-		#tf_isf_feature
-		#[[{},{},{}..],[],[],..]
-		#list which contains list of dictionaries.
-		# the list represents a whole chunk
-		# the sublist represent a doc
-		# the dictionaries have (word:tf-isf) key-pair
-		for i,doc in enumerate(tfFinalList):
-			for j,sent in enumerate(doc):
-				score=0
-				l=len(sent)+1
-				for key in sent.iterkeys():
-					score+=sent[key] # add tf_isf of words
-				score/=(l*1.0)
-				ans[sent_ids[i][j]]=round(decimal.Decimal(score),4)
-
-		return ans #sent-id : noralized total tf_isf score 
+	
+	
+	return tfFinalList	
 
 
-
-def tf_isf_main(filename):
-	filepath="splitted/" + filename
+def tf_isf_old(filename):
+	filepath=filename
 	tree = ET.parse(filepath)
 	root = tree.getroot()
-	tf_isf_feature = tf_isf(root)
+	tf_isf_feature = tf_isf2(root)
 	#print "hello"
 	#print tf_isf_feature
-	
-
+	return tf_isf_feature

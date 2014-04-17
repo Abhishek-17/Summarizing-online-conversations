@@ -1,0 +1,167 @@
+  <thread>
+    <name>20030220 telecon</name>
+    <listno>053-15491914</listno>
+    <DOC>
+      <Received>Tue Feb 17 13:52:15 -0800 2004</Received>
+      <From>Brian McBride &lt;bwm@hplb.hpl.hp.com&gt;</From>
+      <To>rdf core &lt;w3c-rdfcore-wg@w3.org&gt;</To>
+      <Subject>20030220 telecon</Subject>
+      <Text>
+        <Sent id="1.1">I propose to cancel this weeks telecon and schedule another for 12 Mar 2004, if needed. </Sent>
+        <Sent id="1.2">I would like to get moving on comments on the TAG architecture document. </Sent>
+        <Sent id="1.3">Jan - are you still up for reviewing? </Sent>
+        <Sent id="1.4">Can we aim to get other comments in by the end of this week and agreement by email next week? </Sent>
+        <Sent id="1.5">Brian</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Feb 18 05:18:10 -0800 2004</Received>
+      <From>Jeremy Carroll &lt;jjc@hplb.hpl.hp.com&gt;</From>
+      <To>Brian McBride &lt;bwm@hplb.hpl.hp.com&gt;</To>
+      <Cc>rdf core &lt;w3c-rdfcore-wg@w3.org&gt;</Cc>
+      <Subject>Re: 20030220 telecon</Subject>
+      <Text>
+        <Sent id="2.1">&amp;gt; I propose to cancel this weeks telecon and schedule another for 12 Mar 2004, if needed. </Sent>
+        <Sent id="2.2">&amp;gt; I would like to get moving on comments on the TAG architecture document. </Sent>
+        <Sent id="2.3">&amp;gt; Jan - are you still up for reviewing? </Sent>
+        <Sent id="2.4">&amp;gt; Can we aim to get other comments in by the end of this week and agreement by email next week? </Sent>
+        <Sent id="2.5">&amp;gt; Brian </Sent>
+        <Sent id="2.6">I think that means we will not formally respond to I18N on the charmod comments, shall I tell them that we do not intend to, but that the e-mail discussion has not shown any disagreement. </Sent>
+        <Sent id="2.7">e.g. I have informed the RDF Core WG of your decisions, and no one has indicated unhappiness </Sent>
+        <Sent id="2.8">- however we have not formally discussed these issues; </Sent>
+        <Sent id="2.9">and are not likely to. </Sent>
+        <Sent id="2.10">Jeremy</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Feb 18 13:16:21 -0800 2004</Received>
+      <From>Brian McBride &lt;bwm@hplb.hpl.hp.com&gt;</From>
+      <To>Jeremy Carroll &lt;jjc@hplb.hpl.hp.com&gt;</To>
+      <Cc>rdf core &lt;w3c-rdfcore-wg@w3.org&gt;</Cc>
+      <Subject>Re: 20030220 telecon</Subject>
+      <Text>
+        <Sent id="3.1">&amp;gt;&amp;gt; I propose to cancel this weeks telecon and schedule another for 12 Mar 2004, if needed. </Sent>
+        <Sent id="3.2">&amp;gt;&amp;gt; I would like to get moving on comments on the TAG architecture document. </Sent>
+        <Sent id="3.3">&amp;gt;&amp;gt; Jan - are you still up for reviewing? </Sent>
+        <Sent id="3.4">&amp;gt;&amp;gt; Can we aim to get other comments in by the end of this week and agreement by email next week? </Sent>
+        <Sent id="3.5">&amp;gt;&amp;gt; Brian </Sent>
+        <Sent id="3.6">&amp;gt; I think that means we will not formally respond to I18N on the charmod comments, shall I tell them that we do not intend to, but that the e-mail discussion has not shown any disagreement. </Sent>
+        <Sent id="3.7">Ah. </Sent>
+        <Sent id="3.8">Is this a problem. </Sent>
+        <Sent id="3.9">Have I understood correctly they are going through last call again anyway. </Sent>
+        <Sent id="3.10">&amp;gt; e.g. I have informed the RDF Core WG of your decisions, and no one has indicated unhappiness </Sent>
+        <Sent id="3.11">&amp;gt; - however we have not formally discussed these issues; </Sent>
+        <Sent id="3.12">&amp;gt; and are not likely to. </Sent>
+        <Sent id="3.13">&amp;gt; Jeremy </Sent>
+        <Sent id="3.14">When is the deadline? </Sent>
+        <Sent id="3.15">I'm prepared to decide by email so we can formally respond by email. </Sent>
+        <Sent id="3.16">Brian</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Feb 18 16:56:26 -0800 2004</Received>
+      <From>Pat Hayes &lt;phayes@ihmc.us&gt;</From>
+      <To>Brian McBride &lt;bwm@hplb.hpl.hp.com&gt;</To>
+      <Cc>w3c-rdfcore-wg@w3.org</Cc>
+      <Subject>Re: 20030220 telecon</Subject>
+      <Text>
+        <Sent id="4.1">&amp;gt; I propose to cancel this weeks telecon </Sent>
+        <Sent id="4.2">Im assuming that they are all cancelled unless I hear otherwise. </Sent>
+        <Sent id="4.3">Maybe that should be our default? </Sent>
+        <Sent id="4.4">&amp;gt; and schedule another for 12 Mar 2004, if needed. </Sent>
+        <Sent id="4.5">&amp;gt; I would like to get moving on comments on the TAG architecture document. </Sent>
+        <Sent id="4.6">I still plan to write a rather long diatribe on this if I can find the time. </Sent>
+        <Sent id="4.7">I doubt if the rest of the WG will endorse all of it but I will send it along asap, hopefully some time next week. </Sent>
+        <Sent id="4.8">Pat </Sent>
+        <Sent id="4.9">-- </Sent>
+        <Sent id="4.10">--------------------------------------------------------------------- </Sent>
+        <Sent id="4.11">IHMC(850)434 8903 or (650)494 3973 home </Sent>
+        <Sent id="4.12">40 South Alcaniz St.(850)202 4416 office </Sent>
+        <Sent id="4.13">Pensacola(850)202 4440 fax </Sent>
+        <Sent id="4.14">FL 32501(850)291 0667 cell </Sent>
+        <Sent id="4.15">phayes@ihmc.us http://www.ihmc.us/users/phayes</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Thu Feb 19 03:14:27 -0800 2004</Received>
+      <From>Patrick Stickler &lt;patrick.stickler@nokia.com&gt;</From>
+      <To>"ext Pat Hayes" &lt;phayes@ihmc.us&gt;</To>
+      <Cc>Brian McBride &lt;bwm@hplb.hpl.hp.com&gt; ,w3c-rdfcore-wg@w3.org</Cc>
+      <Subject>Re: 20030220 telecon</Subject>
+      <Text>
+        <Sent id="5.1">Likewise, whether or not anyone else in the WG agrees with any of my own personal comments, c.f. http://lists.w3.org/Archives/Public/www-archive/2004Feb/0003.html </Sent>
+        <Sent id="5.2">Patrick </Sent>
+        <Sent id="5.3">&amp;gt;&amp;gt; I propose to cancel this weeks telecon </Sent>
+        <Sent id="5.4">&amp;gt; Im assuming that they are all cancelled unless I hear otherwise. </Sent>
+        <Sent id="5.5">&amp;gt; Maybe that should be our default? </Sent>
+        <Sent id="5.6">&amp;gt;&amp;gt; and schedule another for 12 Mar 2004, if needed. </Sent>
+        <Sent id="5.7">&amp;gt;&amp;gt; I would like to get moving on comments on the TAG architecture document. </Sent>
+        <Sent id="5.8">&amp;gt; I still plan to write a rather long diatribe on this if I can find the time. </Sent>
+        <Sent id="5.9">&amp;gt; I doubt if the rest of the WG will endorse all of it but I will send it along asap, hopefully some time next week. </Sent>
+        <Sent id="5.10">&amp;gt; Pat </Sent>
+        <Sent id="5.11">&amp;gt; -- </Sent>
+        <Sent id="5.12">&amp;gt; --------------------------------------------------------------------- </Sent>
+        <Sent id="5.13">&amp;gt; IHMC(850)434 8903 or (650)494 3973 home </Sent>
+        <Sent id="5.14">&amp;gt; 40 South Alcaniz St.(850)202 4416 office </Sent>
+        <Sent id="5.15">&amp;gt; Pensacola(850)202 4440 fax </Sent>
+        <Sent id="5.16">&amp;gt; FL 32501(850)291 0667 cell </Sent>
+        <Sent id="5.17">&amp;gt; phayes@ihmc.us http://www.ihmc.us/users/phayes </Sent>
+        <Sent id="5.18">&amp;gt; -- </Sent>
+        <Sent id="5.19">&amp;gt; Patrick Stickler </Sent>
+        <Sent id="5.20">&amp;gt; Nokia, Finland </Sent>
+        <Sent id="5.21">&amp;gt; patrick.stickler@nokia.com</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Thu Feb 19 05:42:21 -0800 2004</Received>
+      <From>Jeremy Carroll &lt;jjc@hplb.hpl.hp.com&gt;</From>
+      <To>Brian McBride &lt;bwm@hplb.hpl.hp.com&gt;</To>
+      <Cc>rdf core &lt;w3c-rdfcore-wg@w3.org&gt;</Cc>
+      <Subject>Re: 20030220 telecon</Subject>
+      <Text>
+        <Sent id="6.1">&amp;gt; Ah. </Sent>
+        <Sent id="6.2">&amp;gt; Is this a problem. </Sent>
+        <Sent id="6.3">&amp;gt; Have I understood correctly they are going through last call again anyway. </Sent>
+        <Sent id="6.4">Yes - </Sent>
+        <Sent id="6.5">I could change my draft informal response to indicate that if we have any other formal response it will be included in our LC review comments on their new documents. </Sent>
+        <Sent id="6.6">&amp;gt;&amp;gt; e.g. </Sent>
+        <Sent id="6.7">&amp;gt;&amp;gt; I have informed the RDF Core WG of your decisions, and no one has indicated unhappiness </Sent>
+        <Sent id="6.8">&amp;gt;&amp;gt; - however we have not formally discussed these issues; </Sent>
+        <Sent id="6.9">&amp;gt;&amp;gt; and are not likely to. </Sent>
+        <Sent id="6.10">&amp;gt; When is the deadline? </Sent>
+        <Sent id="6.11">&amp;gt; I'm prepared to decide by email so we can formally respond by email. </Sent>
+        <Sent id="6.12">Two weeks from when I received the message .... </Sent>
+        <Sent id="6.13">i.e. during Cannes </Sent>
+        <Sent id="6.14">- I suspect that is also the real deadline, in that I imagine they want to make their final decisions at Cannes </Sent>
+        <Sent id="6.15">I am happy to draft a formal response that is pretty vacuous, for e-mail vote. </Sent>
+        <Sent id="6.16">Jeremy</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Thu Feb 19 06:10:53 -0800 2004</Received>
+      <From>Brian McBride &lt;bwm@hplb.hpl.hp.com&gt;</From>
+      <To>Pat Hayes &lt;phayes@ihmc.us&gt;</To>
+      <Cc>w3c-rdfcore-wg@w3.org</Cc>
+      <Subject>Re: 20030220 telecon</Subject>
+      <Text>
+        <Sent id="7.1">&amp;gt;&amp;gt; I propose to cancel this weeks telecon </Sent>
+        <Sent id="7.2">&amp;gt; Im assuming that they are all cancelled unless I hear otherwise. </Sent>
+        <Sent id="7.3">&amp;gt; Maybe that should be our default? </Sent>
+        <Sent id="7.4">That is a reasonable working assumption. </Sent>
+        <Sent id="7.5">I've been announcing telecon's in advance and cancelling if not needed to keep within w3c process. </Sent>
+        <Sent id="7.6">Brian</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Thu Feb 19 10:06:57 -0800 2004</Received>
+      <From>Brian McBride &lt;bwm@hplb.hpl.hp.com&gt;</From>
+      <To>Jeremy Carroll &lt;jjc@hplb.hpl.hp.com&gt;</To>
+      <Cc>rdf core &lt;w3c-rdfcore-wg@w3.org&gt;</Cc>
+      <Subject>Re: 20030220 telecon</Subject>
+      <Text>
+        <Sent id="8.1">&amp;gt; I am happy to draft a formal response that is pretty vacuous, for e-mail vote. </Sent>
+        <Sent id="8.2">Please do. </Sent>
+        <Sent id="8.3">Brian</Sent>
+      </Text>
+    </DOC>
+  </thread>

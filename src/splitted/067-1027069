@@ -1,0 +1,188 @@
+  <thread>
+    <name>Appropriate Use of Graphics, and Web Design by Blind People</name>
+    <listno>067-1027069</listno>
+    <DOC>
+      <Received>Tue Apr 04 00:26:37 -0700 2000</Received>
+      <From>Kynn Bartlett &lt;kynn@idyllmtn.com&gt;</From>
+      <To>w3c-wai-gl@w3.org</To>
+      <Subject>Appropriate Use of Graphics, and Web Design by Blind People</Subject>
+      <Text>
+        <Sent id="1.1">Question: Does a requirement to use graphics "when appropriate" -- something that may not be easily done by users with visual disabilities -- mean that blind people are not going to be "good" web designers? 
+</Sent>
+        <Sent id="1.2">Especially if we are going to expect them to be skilled in graphical user interface design and understand how to use images to communicate with people with cognitive disabilities? 
+</Sent>
+        <Sent id="1.3">If we adopted a "use graphics" requirement as a P1, would a blind designer be able to meet that requirement effectively? 
+</Sent>
+        <Sent id="1.4">Just thinking out loud </Sent>
+        <Sent id="1.5">-- don't mind me. 
+</Sent>
+        <Sent id="1.6">-- 
+</Sent>
+        <Sent id="1.7">Kynn Bartlett &amp;lt;kynn@idyllmtn.com&amp;gt; http://www.kynn.com/ 
+</Sent>
+        <Sent id="1.8">Director of Accessibility, edapta http://www.edapta.com/ 
+</Sent>
+        <Sent id="1.9">Chief Technologist, Idyll Mountain Internet http://www.idyllmtn.com/ 
+</Sent>
+        <Sent id="1.10">AWARE Center Director http://www.awarecenter.org/</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Tue Apr 04 03:38:34 -0700 2000</Received>
+      <From>Charles McCathieNevile &lt;charles@w3.org&gt;</From>
+      <To>Kynn Bartlett &lt;kynn@idyllmtn.com&gt;</To>
+      <Subject>Re: Appropriate Use of Graphics, and Web Design by Blind People</Subject>
+      <Text>
+        <Sent id="2.1">Some would, some wouldn't. </Sent>
+        <Sent id="2.2">Same as sighted people. </Sent>
+        <Sent id="2.3">For example, some of my blind friends are much more visually capable than I am, and some aren't. </Sent>
+        <Sent id="2.4">An analgous question might be to ask whether a blind person is going to be able to adequately describe an image - currently a P1 requirement in a number of situations. 
+</Sent>
+        <Sent id="2.5">cheers 
+</Sent>
+        <Sent id="2.6">Charles 
+</Sent>
+        <Sent id="2.7">&gt; Question: Does a requirement to use graphics "when appropriate" -- something that may not be easily done by users with visual disabilities -- mean that blind people are not going to be "good" web designers? 
+</Sent>
+        <Sent id="2.8">&gt; Especially if we are going to expect them to be skilled in graphical user interface design and understand how to use images to communicate with people with cognitive disabilities? 
+</Sent>
+        <Sent id="2.9">&gt; If we adopted a "use graphics" requirement as a P1, would a blind designer be able to meet that requirement effectively? 
+</Sent>
+        <Sent id="2.10">&gt; Just thinking out loud </Sent>
+        <Sent id="2.11">&gt; -- don't mind me. 
+</Sent>
+        <Sent id="2.12">-- 
+</Sent>
+        <Sent id="2.13">Charles McCathieNevile mailto:charles@w3.org phone: +61 (0) 409 134 136 
+</Sent>
+        <Sent id="2.14">W3C Web Accessibility Initiative http://www.w3.org/WAI 
+</Sent>
+        <Sent id="2.15">Location: I-cubed, 110 Victoria Street, Carlton VIC 3053 
+</Sent>
+        <Sent id="2.16">Postal: GPO Box 2476V, Melbourne 3001, Australia</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Tue Apr 04 11:45:29 -0700 2000</Received>
+      <From>Kynn Bartlett &lt;kynn@idyllmtn.com&gt;</From>
+      <To>Charles McCathieNevile &lt;charles@w3.org&gt;</To>
+      <Cc>w3c-wai-gl@w3.org</Cc>
+      <Subject>Re: Appropriate Use of Graphics, and Web Design by Blind People</Subject>
+      <Text>
+        <Sent id="3.1">&gt; Some would, some wouldn't. </Sent>
+        <Sent id="3.2">&gt; Same as sighted people. </Sent>
+        <Sent id="3.3">&gt; For example, some of my blind friends are much more visually capable than I am, and some aren't. </Sent>
+        <Sent id="3.4">&gt; An analgous question might be to ask whether a blind person is going to be able to adequately describe an image - currently a P1 requirement in a number of situations. 
+</Sent>
+        <Sent id="3.5">It's not the same, because a blind person can simply choose to -not- use an image if they feel they can't reasonably describe it...under the current guidelines. </Sent>
+        <Sent id="3.6">(This changes when images become a -requirement for accessibility-.) 
+</Sent>
+        <Sent id="3.7">You do bring up a good point, however, that many people who can see are also not "visually capable" and may not be able to provide graphics easily. </Sent>
+        <Sent id="3.8">I'm not sure if -I- can provide decent graphics for my sites </Sent>
+        <Sent id="3.9">-- and I refuse to believe that I need to give up web design because people with CDs (supposedly) need graphics... 
+</Sent>
+        <Sent id="3.10">-- 
+</Sent>
+        <Sent id="3.11">Kynn Bartlett &amp;lt;kynn@idyllmtn.com&amp;gt; http://www.kynn.com/ 
+</Sent>
+        <Sent id="3.12">Director of Accessibility, edapta http://www.edapta.com/ 
+</Sent>
+        <Sent id="3.13">Chief Technologist, Idyll Mountain Internet http://www.idyllmtn.com/ 
+</Sent>
+        <Sent id="3.14">AWARE Center Director http://www.awarecenter.org/ 
+</Sent>
+        <Sent id="3.15">Next of Kynn: a quasi-regular web log http://www.kynn.com/next/</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Apr 05 09:30:14 -0700 2000</Received>
+      <From>Jonathan Chetwynd &lt;jay@peepo.com&gt;</From>
+      <To>"Charles McCathieNevile" &lt;charles@w3.org&gt; ,"Kynn Bartlett" &lt;kynn@idyllmtn.com&gt;</To>
+      <Cc>&lt;w3c-wai-gl@w3.org&gt;</Cc>
+      <Subject>Re: Appropriate Use of Graphics, and Web Design by Blind People</Subject>
+      <Text>
+        <Sent id="4.1">&gt; and I refuse to believe that I need to give up web design because people with CDs (supposedly) need graphics... 
+</Sent>
+        <Sent id="4.2">If all web authors felt like this about groups they are not prepared to cater to, its no wonder we need WAI. 
+</Sent>
+        <Sent id="4.3">jay@peepo.com 
+</Sent>
+        <Sent id="4.4">special needs teacher 
+</Sent>
+        <Sent id="4.5">web accessibility consultant</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Apr 05 09:48:21 -0700 2000</Received>
+      <From>Leonard R. Kasday &lt;kasday@acm.org&gt;</From>
+      <To>w3c-wai-gl@w3.org</To>
+      <Subject>Re: Appropriate Use of Graphics, and Web Design by Blind People</Subject>
+      <Text>
+        <Sent id="5.1">&gt; If we adopted a "use graphics" requirement as a P1, would a blind designer be able to meet that requirement effectively? 
+</Sent>
+        <Sent id="5.2">There are lots of cases where a blind designer could use graphics as effectively, or actually more effectively, than a sighted person. </Sent>
+        <Sent id="5.3">These are cases where the graphics are selected or generated in a rule based or standardized way. </Sent>
+        <Sent id="5.4">For example, there are packages that generate flow charts from a textual description of a process. </Sent>
+        <Sent id="5.5">These insure a sensible flow chart... </Sent>
+        <Sent id="5.6">at least a chart that "parses" correctly. </Sent>
+        <Sent id="5.7">On the other hand, I've seen too many flow chart style diagrams by sighted people where I have trouble understanding what conventions if any they're using.</Sent>
+        <Sent id="5.8">I'll take a rule based design by a blind indivdiual any day. 
+</Sent>
+        <Sent id="5.9">Other examples are graphs generated from data, schematic diagrams generated from pspice lists, and icons selected from a standardized set. 
+</Sent>
+        <Sent id="5.10">Also, page layout and color selection can be made according to rules and standards. 
+</Sent>
+        <Sent id="5.11">Now, what about more creatively artistic uses of design, uses that can't be reduced to mathematical or verbal rules? </Sent>
+        <Sent id="5.12">Well, first of all that goes beyond our guidelines: </Sent>
+        <Sent id="5.13">we're just looking at usability and I think rule-based graphics should handle that. </Sent>
+        <Sent id="5.14">Second of all, I think there are certainly some blind individuals who can produce better art than some sighted individuals (better than me for example), certainly among people who have some vision and early visual experience. </Sent>
+        <Sent id="5.15">As for art by people born blind... I'm not familiar with that area but I woudn't be surprised there's some remarkable use of shape and form. 
+</Sent>
+        <Sent id="5.16">-- 
+</Sent>
+        <Sent id="5.17">Leonard R. Kasday, Ph.D. 
+</Sent>
+        <Sent id="5.18">Institute on Disabilities/UAP, and 
+</Sent>
+        <Sent id="5.19">Department of Electrical Engineering 
+</Sent>
+        <Sent id="5.20">Temple University 
+</Sent>
+        <Sent id="5.21">423 Ritter Annex, Philadelphia, PA 19122 
+</Sent>
+        <Sent id="5.22">kasday@acm.org 
+</Sent>
+        <Sent id="5.23">http://astro.temple.edu/~kasday 
+</Sent>
+        <Sent id="5.24">(215) 204-2247 (voice) 
+</Sent>
+        <Sent id="5.25">(800) 750-7428 (TTY)</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Apr 05 17:02:36 -0700 2000</Received>
+      <From>Kynn Bartlett &lt;kynn@operamail.com&gt;</From>
+      <To>"Jonathan Chetwynd" &lt;jay@peepo.com&gt; , Charles McCathieNevile &lt;charles@w3.org&gt; , Kynn Bartlett &lt;kynn@idyllmtn.com&gt;</To>
+      <Cc>&lt;w3c-wai-gl@w3.org&gt;</Cc>
+      <Subject>RE: Appropriate Use of Graphics, and Web Design by Blind People</Subject>
+      <Text>
+        <Sent id="6.1">&gt;&gt; and I refuse to believe that I need to give up web design because people with CDs (supposedly) need graphics... 
+</Sent>
+        <Sent id="6.2">&gt; If all web authors felt like this about groups they are not prepared to cater to, its no wonder we need WAI. 
+</Sent>
+        <Sent id="6.3">Jonathan, do you really mean to be insulting to me? </Sent>
+        <Sent id="6.4">We may be having a comprehension problem, but if you're going to react in a way that seems to question my "loyalty to cause" -- despite being willing to take the time needed to work through this issue, as my repeated email messages haven proven that I'm willing to do -- then you're likely to turn away even MORE people who could be your strongest allies. 
+</Sent>
+        <Sent id="6.5">Perhaps this is just a communication error </Sent>
+        <Sent id="6.6">-- your "style" of writing is vastly different from mine, and I certainly see how confusion could result. 
+</Sent>
+        <Sent id="6.7">-- 
+</Sent>
+        <Sent id="6.8">Kynn Bartlett &amp;lt;kynn@operamail.com&amp;gt; 
+</Sent>
+        <Sent id="6.9">http://www.kynn.com/ 
+</Sent>
+        <Sent id="6.10">My Browser Is Faster Than Yours</Sent>
+      </Text>
+    </DOC>
+  </thread>

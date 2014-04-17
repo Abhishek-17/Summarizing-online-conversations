@@ -1,0 +1,135 @@
+  <thread>
+    <name>Usability testing</name>
+    <listno>074-0998972</listno>
+    <DOC>
+      <Received>Mon Nov 23 18:06:21 -0800 1998</Received>
+      <From>Joe Night &lt;joe.night@gateway2000.com&gt;</From>
+      <To>w3c-wai-ig@w3.org</To>
+      <Subject>Usability testing</Subject>
+      <Text>
+        <Sent id="1.1">I need to help assemble and populate a small computer lab to examine web usability issues. </Sent>
+        <Sent id="1.2">This is a very large ballpark and I need to narrow the options we're going to explore. 
+</Sent>
+        <Sent id="1.3">I'm seeking your opinion about what tools we should test with. </Sent>
+        <Sent id="1.4">We have to start someplace and picking a specific set of tools seems to be a reasonable place. </Sent>
+        <Sent id="1.5">I gather that there's no such thing as a perfect list but I need to put one together anyway. 
+</Sent>
+        <Sent id="1.6">I'd like to hear about your opinions and preferences about tools if you care to share them. </Sent>
+        <Sent id="1.7">I suspect a public forum is not the best place to share these sentiments. </Sent>
+        <Sent id="1.8">Please respond privately so I don't get shot for starting another browser war. 
+</Sent>
+        <Sent id="1.9">Regards, 
+</Sent>
+        <Sent id="1.10">Joe Night</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Mon Nov 23 18:18:59 -0800 1998</Received>
+      <From>Jamie Fox &lt;jfox@fenix2.dol-esa.gov&gt;</From>
+      <To>"Joe Night" &lt;joe.night@gateway2000.com&gt;</To>
+      <Cc>"'Web Accessibility Initiative'" &lt;w3c-wai-ig@w3.org&gt;</Cc>
+      <Subject>RE: Usability testing</Subject>
+      <Text>
+        <Sent id="2.1">I'd use Netscape 3.x and 4.x, a version of MS Internet Explorer (as you can't have two versions on the same machine to my knowledge), a text browser such as lynx., PwWebSpeak for the voice browser and maybe Opera if you have extra time and money. </Sent>
+        <Sent id="2.2">Also to be considered is the use of a general screen reader such as Jaws For Windows. </Sent>
+        <Sent id="2.3">Use of tools such as bobby and HTML validators is also essential. </Sent>
+        <Sent id="2.4">It might be sensible to have disabled users actually do the testing. 
+</Sent>
+        <Sent id="2.5">See also: 
+</Sent>
+        <Sent id="2.6">http://www.eeicom.com/dcwebmasters/pwd/ 
+</Sent>
+        <Sent id="2.7">http://www.geocities.com/SiliconValley/Grid/5447/access.html (not yet 
+</Sent>
+        <Sent id="2.8">refined) 
+</Sent>
+        <Sent id="2.9">-Jamie Fox 
+</Sent>
+        <Sent id="2.10">&gt; I need to help assemble and populate a small computer lab to examine web usability issues. </Sent>
+        <Sent id="2.11">&gt; This is a very large ballpark and I need to narrow the options we're going to explore. 
+</Sent>
+        <Sent id="2.12">&gt; I'm seeking your opinion about what tools we should test with. </Sent>
+        <Sent id="2.13">&gt; We have to start someplace and picking a specific set of tools seems to be a reasonable place. </Sent>
+        <Sent id="2.14">&gt; I gather that there's no such thing as a perfect list but I need to put one together anyway. 
+</Sent>
+        <Sent id="2.15">&gt; I'd like to hear about your opinions and preferences about tools if you care to share them. </Sent>
+        <Sent id="2.16">&gt; I suspect a public forum is not the best place to share these sentiments. </Sent>
+        <Sent id="2.17">&gt; Please respond privately so I don't get shot for starting another browser war. 
+</Sent>
+        <Sent id="2.18">&gt; Regards, 
+</Sent>
+        <Sent id="2.19">&gt; Joe Night</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Tue Nov 24 03:58:15 -0800 1998</Received>
+      <From>Charles McCathie Nevile &lt;charlesn@srl.rmit.EDU.AU&gt;</From>
+      <To>Joe Night &lt;joe.night@gateway2000.com&gt;</To>
+      <Subject>Re: Usability testing</Subject>
+      <Text>
+        <Sent id="3.1">I'm replying publicly because this is an important issue which is facing a lot of people, not just you. </Sent>
+        <Sent id="3.2">(You are just the 1% prepared to put their hand up and ask...) 
+</Sent>
+        <Sent id="3.3">I would skip IE/Netscape, since designers worth 2c can tell you already how things work there by reading the code. </Sent>
+        <Sent id="3.4">The first thing I would do is validate the HTML and check with Bobby, but read the results and think about it rather than simply believing what you're told. 
+</Sent>
+        <Sent id="3.5">For browsers I would look at Lynx, a screen reader (eg winvision, or jaws) and a proper audio browser like pwWebSpeak. </Sent>
+        <Sent id="3.6">If you can, use WebTV and a Macintosh version of things </Sent>
+        <Sent id="3.7">- this will generally show up the problems much faster. 
+</Sent>
+        <Sent id="3.8">The key is to learn where the problems arise so you can cut back the test/repair cycle. </Sent>
+        <Sent id="3.9">It is a great efficiency if you can solve the problems by design rather than by repair. 
+</Sent>
+        <Sent id="3.10">Charles McCathieNevile 
+</Sent>
+        <Sent id="3.11">&gt; I need to help assemble and populate a small computer lab to examine web usability issues. </Sent>
+        <Sent id="3.12">This is a very large ballpark and I need to narrow the options we're going to explore.</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Tue Nov 24 07:20:06 -0800 1998</Received>
+      <From>Robert Neff &lt;rcn@fenix2.dol-esa.gov&gt;</From>
+      <To>&lt;w3c-wai-ig@w3.org&gt;</To>
+      <Subject>RE: Usability testing</Subject>
+      <Text>
+        <Sent id="4.1">Ok, who has some good reference URLs for WebTV?</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Tue Nov 24 14:21:30 -0800 1998</Received>
+      <From>Robert Neff &lt;rcn@fenix2.dol-esa.gov&gt;</From>
+      <To>"Joe Night" &lt;joe.night@gateway2000.com&gt;</To>
+      <Cc>"W3c-Wai-Ig@W3.Org" &lt;w3c-wai-ig@w3.org&gt;</Cc>
+      <Subject>RE: Usability testing</Subject>
+      <Text>
+        <Sent id="5.1">FYI, "EEI Communications" was off-line this morning and is now operational. 
+</Sent>
+        <Sent id="5.2">&gt;&gt; As a reference, please see www.eeicom.com/dcwebmasters/pwd and click on the link for PWD presentation. </Sent>
+        <Sent id="5.3">&gt;&gt; I would show you exactly where to go, but having connectivity problems with the work server. 
+</Sent>
+        <Sent id="5.4">&gt; They must be having a problem. 
+</Sent>
+        <Sent id="5.5">&gt; I can't connect this morning but I'll try later. 
+</Sent>
+        <Sent id="5.6">&gt; Thanks for the suggestion. 
+</Sent>
+        <Sent id="5.7">&gt; Joe</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Tue Nov 24 15:26:44 -0800 1998</Received>
+      <From>Kynn Bartlett &lt;kynn-hwg@idyllmtn.com&gt;</From>
+      <To>charlesn@srl.rmit.EDU.AU(Charles McCathie Nevile)</To>
+      <Cc>joe.night@gateway2000.com,w3c-wai-ig@w3.org</Cc>
+      <Subject>Re: Usability testing</Subject>
+      <Text>
+        <Sent id="6.1">&gt; For browsers I would look at Lynx, a screen reader (eg winvision, or jaws) and a proper audio browser like pwWebSpeak. </Sent>
+        <Sent id="6.2">&gt; If you can, use WebTV [...] 
+</Sent>
+        <Sent id="6.3">By the way, if you weren't aware, there's an emulator for WebTV that runs on Windows 95/* and Macintosh that you can download from developer.webtv.net. </Sent>
+        <Sent id="6.4">I recommend it to my accessibility class students, since the more browsers you expose someone to, the quicker they realize that the web is designed to support ANY valid user agent, not just "the big two". 
+</Sent>
+        <Sent id="6.5">--Kynn</Sent>
+      </Text>
+    </DOC>
+  </thread>

@@ -1,0 +1,133 @@
+  <thread>
+    <name>Radio transcripts</name>
+    <listno>074-14150913</listno>
+    <DOC>
+      <Received>Fri Jul 09 01:00:58 -0700 1999</Received>
+      <From>Jason White &lt;jasonw@ariel.ucs.unimelb.edu.au&gt;</From>
+      <To>WAI Interest Group &lt;w3c-wai-ig@w3.org&gt;</To>
+      <Subject>Radio transcripts</Subject>
+      <Text>
+        <Sent id="1.1">I recently discovered that ABC Radio National here in Australia (http://www.abc.net.au/rn/) offers transcripts of certain of its programmes via the web. </Sent>
+        <Sent id="1.2">I haven't checked the accessibility of the site, and, as I understand it, the transcripts appear several days after the programmes themselves have been broadcast. </Sent>
+        <Sent id="1.3">Are other radio stations with a presence on the web adopting similar policies?</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Jul 09 18:19:59 -0700 1999</Received>
+      <From>T. V. Raman &lt;raman@Adobe.COM&gt;</From>
+      <To>Jason White &lt;jasonw@ariel.ucs.unimelb.edu.au&gt;</To>
+      <Cc>WAI Interest Group &lt;w3c-wai-ig@w3.org&gt;</Cc>
+      <Subject>Radio transcripts</Subject>
+      <Text>
+        <Sent id="2.1">more interestingly check out http://www.cnn.com/TRANSCRIPTS </Sent>
+        <Sent id="2.2">As far as I can tell, it's not linked into their main page yet. </Sent>
+        <Sent id="2.3">Note that the page is extremely table rich (a euphasism of sorts) </Sent>
+        <Sent id="2.4">--but emacspeak/w3 should give you good access. </Sent>
+        <Sent id="2.5">-- </Sent>
+        <Sent id="2.6">Best Regards, </Sent>
+        <Sent id="2.7">--raman </Sent>
+        <Sent id="2.8">Adobe Systems Tel: 1 408 536 3945 (W14-128) </Sent>
+        <Sent id="2.9">Advanced Technology Group Fax: 1 408 537 4042 </Sent>
+        <Sent id="2.10">W14-128 345 Park Avenue Email: raman@adobe.com </Sent>
+        <Sent id="2.11">San Jose , CA 95110 -2704 Email: raman@cs.cornell.edu </Sent>
+        <Sent id="2.12">http://labrador.corp.adobe.com/~raman/ (Adobe Intranet) </Sent>
+        <Sent id="2.13">http://cs.cornell.edu/home/raman/ (Cornell) </Sent>
+        <Sent id="2.14">---------------------------------------------------------------------- </Sent>
+        <Sent id="2.15">Disclaimer: The opinions expressed are my own and in no way should be taken </Sent>
+        <Sent id="2.16">as representative of my employer, Adobe Systems Inc. </Sent>
+        <Sent id="2.17">____________________________________________________________</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Sat Jul 10 10:25:35 -0700 1999</Received>
+      <From>pfhyper &lt;pf@pfhyper.com&gt;</From>
+      <To>"Jason White" &lt;jasonw@ariel.ucs.unimelb.edu.au&gt; ,"WAI Interest Group" &lt;w3c-wai-ig@w3.org&gt;</To>
+      <Subject>Re: Radio transcripts</Subject>
+      <Text>
+        <Sent id="3.1">&amp;gt; I recently discovered that ABC Radio National here in Australia (http://www.abc.net.au/rn/) offers transcripts of certain of its programmes via the web. </Sent>
+        <Sent id="3.2">&amp;gt; I haven't checked the accessibility of the site, and, as I understand it, the transcripts appear several days after the programmes themselves have been broadcast. </Sent>
+        <Sent id="3.3">&amp;gt; Are other radio stations with a presence on the web adopting similar policies? </Sent>
+        <Sent id="3.4">Public Radio International &amp;amp;lt;http://www.pri.org/&amp;amp;gt; offers RealAudio transcripts of at least some of their shows. </Sent>
+        <Sent id="3.5">Peter Fleck </Sent>
+        <Sent id="3.6">PF Hyper </Sent>
+        <Sent id="3.7">Internet-Web-Consulting-Training </Sent>
+        <Sent id="3.8">Minneapolis, MN USA 55406 </Sent>
+        <Sent id="3.9">612-630-9136 </Sent>
+        <Sent id="3.10">=== pf@pfhyper.com | http://www.pfhyper.com ===</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Sun Jul 11 20:03:33 -0700 1999</Received>
+      <From>Jason White &lt;jasonw@ariel.ucs.unimelb.edu.au&gt;</From>
+      <To>WAI Interest Group &lt;w3c-wai-ig@w3.org&gt;</To>
+      <Subject>Re: Radio transcripts</Subject>
+      <Text>
+        <Sent id="4.1">The central point here is that providing transcripts of audio content is a requirement under the guidelines, so that if an audio stream is provided, transcripts must also be made available.</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Mon Jul 12 16:36:25 -0700 1999</Received>
+      <From>Michael Burks &lt;mburks952@worldnet.att.net&gt;</From>
+      <To>"WAI Interest Group" &lt;w3c-wai-ig@w3.org&gt;</To>
+      <Subject>Color Blindness</Subject>
+      <Text>
+        <Sent id="5.1">All, </Sent>
+        <Sent id="5.2">where is the best place to find our specifics about the issues involved with web pages and color blindness? </Sent>
+        <Sent id="5.3">Does anyone know? </Sent>
+        <Sent id="5.4">Sincerely, </Sent>
+        <Sent id="5.5">Mike Burks </Sent>
+        <Sent id="5.6">Chairman Internet Society SIG for Access to the Internet for people with Disabilities </Sent>
+        <Sent id="5.7">www.isoc.org/access/ </Sent>
+        <Sent id="5.8">Member Advisory Board International Center for Disability Resources on the Internet </Sent>
+        <Sent id="5.9">www.icdri.org</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Mon Jul 12 16:56:59 -0700 1999</Received>
+      <From>Kynn Bartlett &lt;kynn-hwg@idyllmtn.com&gt;</From>
+      <To>&lt;mburks952@worldnet.att.net&gt;</To>
+      <Cc>"WAI Interest Group" &lt;w3c-wai-ig@w3.org&gt;</Cc>
+      <Subject>Re: Color Blindness</Subject>
+      <Text>
+        <Sent id="6.1">&amp;gt; where is the best place to find our specifics about the issues involved with web pages and color blindness? </Sent>
+        <Sent id="6.2">We have three links listed on the AWARE Center site, on the &amp;quot;tips&amp;quot; page: </Sent>
+        <Sent id="6.3">http://aware.hwg.org/tips/ </Sent>
+        <Sent id="6.4">But I would love to have more. </Sent>
+        <Sent id="6.5">Diane Wilson's site (linked from the page above) is a nice start: </Sent>
+        <Sent id="6.6">http://www.lava.net/~dewilson/web/color.html </Sent>
+        <Sent id="6.7">-- </Sent>
+        <Sent id="6.8">Kynn Bartlett mailto:kynn@hwg.org </Sent>
+        <Sent id="6.9">President, HTML Writers Guild http://www.hwg.org/ </Sent>
+        <Sent id="6.10">AWARE Center Director http://aware.hwg.org/</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Mon Jul 12 18:09:58 -0700 1999</Received>
+      <From>Michael Burks &lt;mburks952@worldnet.att.net&gt;</From>
+      <To></To>
+      <Cc>"WAI Interest Group" &lt;w3c-wai-ig@w3.org&gt;</Cc>
+      <Subject>RE: Color Blindness</Subject>
+      <Text>
+        <Sent id="7.1">All, </Sent>
+        <Sent id="7.2">I want to thank everyone for their quick response to my question....</Sent>
+        <Sent id="7.3">It is greatly appreciated and is going to help out quite a bit. </Sent>
+        <Sent id="7.4">Thank you again for you help. </Sent>
+        <Sent id="7.5">Sincerely, </Sent>
+        <Sent id="7.6">Mike Burks </Sent>
+        <Sent id="7.7">Chairman Internet Society SIG for Access to the Internet for people with Disabilities </Sent>
+        <Sent id="7.8">www.isoc.org/access/ </Sent>
+        <Sent id="7.9">Member Advisory Board International Center for Disability Resources on the Internet </Sent>
+        <Sent id="7.10">www.icdri.org</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Tue Jul 13 03:50:11 -0700 1999</Received>
+      <From>Judy Schnitzer &lt;sitekre8@pacbell.net&gt;</From>
+      <To>"WAI Interest Group" &lt;w3c-wai-ig@w3.org&gt;</To>
+      <Cc>Kynn Bartlett &lt;kynn-hwg@idyllmtn.com&gt;</Cc>
+      <Subject>Re: Color Blindness</Subject>
+      <Text>
+        <Sent id="8.1">text/html attachment: stored</Sent>
+      </Text>
+    </DOC>
+  </thread>

@@ -1,0 +1,190 @@
+  <thread>
+    <name>SWADEurope postcard picture</name>
+    <listno>015-2625401</listno>
+    <DOC>
+      <Received>Fri Apr 25 06:39:28 -0700 2003</Received>
+      <From>Libby Miller &lt;Libby.Miller@bristol.ac.uk&gt;</From>
+      <To>public-esw@w3.org</To>
+      <Subject>SWADEurope postcard picture</Subject>
+      <Text>
+        <Sent id="1.1">hi all, 
+</Sent>
+        <Sent id="1.2">As outlined at the face to face meet, I've been working on methods of getting coordinate information about the locations of Semantic web researchers and groups. </Sent>
+        <Sent id="1.3">I wrote to the www-rdf-interest list asking for data: 
+</Sent>
+        <Sent id="1.4">http://lists.w3.org/Archives/Public/www-rdf-interest/2003Apr/0252.html 
+</Sent>
+        <Sent id="1.5">so we'll have to see how that pans out. </Sent>
+        <Sent id="1.6">Please do add yourselves if you've not already there (I just did a few as examples). 
+</Sent>
+        <Sent id="1.7">There are some SVG demos, developed from ones by Jim Ley, displaying the information we have already, which I constructed as examples: 
+</Sent>
+        <Sent id="1.8">http://www.w3.org/2001/sw/Europe/200303/geo/intro.html#demos 
+</Sent>
+        <Sent id="1.9">So, now we have to decide on the map which we will use to overlay the dots on. </Sent>
+        <Sent id="1.10">We want something that will highlight Europe, especially since on a world map, Europe is too small to really show up on provide the level of detail we require. </Sent>
+        <Sent id="1.11">At ILRT, Caroline Meek, Dan and I have had discussions with a designer, and he has pointed us at some examples, and we've narrowed it down to two that we rather like: 
+</Sent>
+        <Sent id="1.12">http://www.cadmium.co.uk/thumbs/brand%20x/maps%20and%20globes/t_bxp_c31027.jpg.jpg 
+</Sent>
+        <Sent id="1.13">which has the advantage of showing Europe as part of the world (we could get rid of the arm of the globe that is showing, and alter the colours); 
+</Sent>
+        <Sent id="1.14">and http://www.cadmium.co.uk/thumbs/ds/maps%20and%20globes/t_11407324.jpg.jpg 
+</Sent>
+        <Sent id="1.15">which would be technically simpler to do, but shows Europe in isolation (I do like the colour scheme though). 
+</Sent>
+        <Sent id="1.16">Do people have a preference for one style over the other? 
+</Sent>
+        <Sent id="1.17">Could you let us know today if possible? </Sent>
+        <Sent id="1.18">We need to specify the map as soon as possible in order to get postcards printed for www2003. 
+</Sent>
+        <Sent id="1.19">thanks, 
+</Sent>
+        <Sent id="1.20">Libby 
+</Sent>
+        <Sent id="1.21">p.s. Here's a nice similar idea: 
+</Sent>
+        <Sent id="1.22">http://www.asemantics.net/showcase/zoom.html</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Apr 25 07:12:54 -0700 2003</Received>
+      <From>Dickinson, Ian J &lt;Ian.Dickinson@hp.com&gt;</From>
+      <To>"'Libby Miller'" &lt;Libby.Miller@bristol.ac.uk&gt; ,public-esw@w3.org</To>
+      <Subject>RE: SWADEurope postcard picture</Subject>
+      <Text>
+        <Sent id="2.1">&gt; Do people have a preference for one style over the other? 
+</Sent>
+        <Sent id="2.2">&gt; Could you let us know today if possible? </Sent>
+        <Sent id="2.3">&gt; We need to specify the map as soon as possible in order to get postcards printed for www2003. 
+</Sent>
+        <Sent id="2.4">Can't say I'm particularly grabbed by either of them, but if you have to pick one I'd go for the map, not the globe. </Sent>
+        <Sent id="2.5">Is there any reason it has to be geographically accurate? </Sent>
+        <Sent id="2.6">Perhaps a schematic, analogous to the London Underground map of London, would allow you to convey the sense of spatial distribution without getting hung up on the scale problem. </Sent>
+        <Sent id="2.7">Of course, you may not consider that a helpful suggestion given the short timescale :-) 
+</Sent>
+        <Sent id="2.8">Cheers, 
+</Sent>
+        <Sent id="2.9">Ian</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Apr 25 07:22:24 -0700 2003</Received>
+      <From>Dan Brickley &lt;danbri@w3.org&gt;</From>
+      <To>"Dickinson, Ian J" &lt;Ian.Dickinson@hp.com&gt;</To>
+      <Cc>"'Libby Miller'" &lt;Libby.Miller@bristol.ac.uk&gt; ,public-esw@w3.org</Cc>
+      <Subject>Re: SWADEurope postcard picture</Subject>
+      <Text>
+        <Sent id="3.1">* Dickinson, Ian J &amp;lt;Ian.Dickinson@hp.com&amp;gt; [2003-04-25 12:12+0100] 
+</Sent>
+        <Sent id="3.2">&gt; From: Libby Miller [mailto:Libby.Miller@bristol.ac.uk] 
+</Sent>
+        <Sent id="3.3">&gt;&gt; Do people have a preference for one style over the other? 
+</Sent>
+        <Sent id="3.4">&gt;&gt; Could you let us know today if possible? </Sent>
+        <Sent id="3.5">&gt;&gt; We need to specify the map as soon as possible in order to get postcards printed for www2003. 
+</Sent>
+        <Sent id="3.6">&gt; Can't say I'm particularly grabbed by either of them, but if you have to pick one I'd go for the map, not the globe. </Sent>
+        <Sent id="3.7">&gt; Is there any reason it has to be geographically accurate? </Sent>
+        <Sent id="3.8">&gt; Perhaps a schematic, analogous to the London Underground map of London, would allow you to convey the sense of spatial distribution without getting hung up on the scale problem. </Sent>
+        <Sent id="3.9">&gt; Of course, you may not consider that a helpful suggestion given the short timescale :-) 
+</Sent>
+        <Sent id="3.10">One advantage of being geographically accurate is it simplifies our lives when we try to plot SW researchers, groups, events etc on the map... 
+</Sent>
+        <Sent id="3.11">I prefer the map to the globe, fwiw. 
+</Sent>
+        <Sent id="3.12">Dan</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Apr 25 07:36:41 -0700 2003</Received>
+      <From>Libby Miller &lt;Libby.Miller@bristol.ac.uk&gt;</From>
+      <To>"Dickinson, Ian J" &lt;Ian.Dickinson@hp.com&gt;</To>
+      <Subject>RE: SWADEurope postcard picture</Subject>
+      <Text>
+        <Sent id="4.1">yeah, sorry it's such a rush. </Sent>
+        <Sent id="4.2">It took a long time to write the document explaining how to write the RDF. </Sent>
+        <Sent id="4.3">At this stage we really need examples to show the designer though </Sent>
+        <Sent id="4.4">- I'll pass your comments along to him, see if he has anything like that. 
+</Sent>
+        <Sent id="4.5">What don't you like about them in particular? 
+</Sent>
+        <Sent id="4.6">thanks for the feedback 
+</Sent>
+        <Sent id="4.7">Libby 
+</Sent>
+        <Sent id="4.8">On Fri, 25 Apr 2003, Dickinson, Ian J wrote: 
+</Sent>
+        <Sent id="4.9">&gt; From: Libby Miller [mailto:Libby.Miller@bristol.ac.uk] 
+</Sent>
+        <Sent id="4.10">&gt;&gt; Do people have a preference for one style over the other? 
+</Sent>
+        <Sent id="4.11">&gt;&gt; Could you let us know today if possible? </Sent>
+        <Sent id="4.12">&gt;&gt; We need to specify the map as soon as possible in order to get postcards printed for www2003. 
+</Sent>
+        <Sent id="4.13">&gt; Can't say I'm particularly grabbed by either of them, but if you have to pick one I'd go for the map, not the globe. </Sent>
+        <Sent id="4.14">&gt; Is there any reason it has to be geographically accurate? </Sent>
+        <Sent id="4.15">&gt; Perhaps a schematic, analogous to the London Underground map of London, would allow you to convey the sense of spatial distribution without getting hung up on the scale problem. </Sent>
+        <Sent id="4.16">&gt; Of course, you may not consider that a helpful suggestion given the short timescale :-) 
+</Sent>
+        <Sent id="4.17">&gt; Cheers, 
+</Sent>
+        <Sent id="4.18">&gt; Ian</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Apr 25 10:32:27 -0700 2003</Received>
+      <From>Dickinson, Ian J &lt;Ian.Dickinson@hp.com&gt;</From>
+      <To>"'Libby Miller'" &lt;Libby.Miller@bristol.ac.uk&gt;</To>
+      <Cc>public-esw &lt;public-esw@w3.org&gt;</Cc>
+      <Subject>RE: SWADEurope postcard picture</Subject>
+      <Text>
+        <Sent id="5.1">Hi Libby, 
+</Sent>
+        <Sent id="5.2">&gt; What don't you like about them in particular? 
+</Sent>
+        <Sent id="5.3">The globe is too visually busy for a background (imho), and if you decrease the opacity I think you'll lose too much of the important bits (like where the UK is :-). </Sent>
+        <Sent id="5.4">The map would be OK as a backdrop for the FOAF map if it was semi-opaque, but (a) it misses out the rest of the world, as you said yourself, and (b) there's a big blue empty space on the left :-). </Sent>
+        <Sent id="5.5">The atlantic is just too big** if you keep it to scale, hence my suggestion to use more of a schematic approach. </Sent>
+        <Sent id="5.6">I guess you need the cartographical equivalent of an ellipsis, whatever that might be! 
+</Sent>
+        <Sent id="5.7">Cheers, 
+</Sent>
+        <Sent id="5.8">Ian 
+</Sent>
+        <Sent id="5.9">** qv "[the judge] ruled that the guilty party was 'life itself' for failing 
+</Sent>
+        <Sent id="5.10">to be either beautiful or true" [hhgtg]</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Apr 25 15:18:38 -0700 2003</Received>
+      <From>Libby Miller &lt;Libby.Miller@bristol.ac.uk&gt;</From>
+      <To>"Dickinson, Ian J" &lt;Ian.Dickinson@hp.com&gt;</To>
+      <Subject>RE: SWADEurope postcard picture</Subject>
+      <Text>
+        <Sent id="6.1">thanks Ian. </Sent>
+        <Sent id="6.2">I broadly agree with you. </Sent>
+        <Sent id="6.3">For (b) though, that might work in our favour, as we can put a logo and/or a slogan there. 
+</Sent>
+        <Sent id="6.4">Libby 
+</Sent>
+        <Sent id="6.5">On Fri, 25 Apr 2003, Dickinson, Ian J wrote: 
+</Sent>
+        <Sent id="6.6">&gt; Hi Libby, 
+</Sent>
+        <Sent id="6.7">&gt;&gt; What don't you like about them in particular? 
+</Sent>
+        <Sent id="6.8">&gt; The globe is too visually busy for a background (imho), and if you decrease the opacity I think you'll lose too much of the important bits (like where the UK is :-). </Sent>
+        <Sent id="6.9">&gt; The map would be OK as a backdrop for the FOAF map if it was semi-opaque, but (a) it misses out the rest of the world, as you said yourself, and (b) there's a big blue empty space on the left :-). </Sent>
+        <Sent id="6.10">&gt; The atlantic is just too big** if you keep it to scale, hence my suggestion to use more of a schematic approach. </Sent>
+        <Sent id="6.11">&gt; I guess you need the cartographical equivalent of an ellipsis, whatever that might be! 
+</Sent>
+        <Sent id="6.12">&gt; Cheers, 
+</Sent>
+        <Sent id="6.13">&gt; Ian 
+</Sent>
+        <Sent id="6.14">&gt; ** qv "[the judge] ruled that the guilty party was 'life itself' for failing to be either beautiful or true" [hhgtg]</Sent>
+      </Text>
+    </DOC>
+  </thread>

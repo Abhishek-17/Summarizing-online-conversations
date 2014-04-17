@@ -1,0 +1,111 @@
+  <thread>
+    <name>White text on black background</name>
+    <listno>079-4736087</listno>
+    <DOC>
+      <Received>Thu Jun 05 14:40:53 -0700 2003</Received>
+      <From>Jesper Tverskov &lt;jesper.tverskov@mail.tele.dk&gt;</From>
+      <To>&lt;w3c-wai-ig@w3.org&gt;</To>
+      <Subject>White text on black background</Subject>
+      <Text>
+        <Sent id="1.1">Hi </Sent>
+        <Sent id="1.2">I am just wondering if many users, disabilities or not, find white text on black background much easier to read than black on white. </Sent>
+        <Sent id="1.3">If it is the case I will include both in the style switcher I am making. </Sent>
+        <Sent id="1.4">Best regards, </Sent>
+        <Sent id="1.5">Jesper</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Thu Jun 05 15:14:42 -0700 2003</Received>
+      <From>John Foliot - WATS.ca &lt;foliot@wats.ca&gt;</From>
+      <To>"Jesper Tverskov" &lt;jesper.tverskov@mail.tele.dk&gt; , &lt;w3c-wai-ig@w3.org&gt;</To>
+      <Subject>RE: White text on black background</Subject>
+      <Text>
+        <Sent id="2.1">Jesper, </Sent>
+        <Sent id="2.2">It is my experience that many visually impaired users who still retain some eyesight prefer light text on dark backgrounds, especially when on a monitor screen. </Sent>
+        <Sent id="2.3">This is due in part to the fact that the &amp;quot;glare&amp;quot; from a white monitor screen is hard on the eyes, and can often wash out thin black lines (like text). </Sent>
+        <Sent id="2.4">I personally know of at least 2 partially sighted users who have set up their machines with dark backgrounds and light text, even to the point of one setting their web browser to over-ride developers colours. </Sent>
+        <Sent id="2.5">JF </Sent>
+        <Sent id="2.6">&amp;gt; Hi </Sent>
+        <Sent id="2.7">&amp;gt; I am just wondering if many users, disabilities or not, find white text on black background much easier to read than black on white. </Sent>
+        <Sent id="2.8">&amp;gt; If it is the case I will include both in the style switcher I am making. </Sent>
+        <Sent id="2.9">&amp;gt; Best regards, </Sent>
+        <Sent id="2.10">&amp;gt; Jesper</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Thu Jun 05 19:50:09 -0700 2003</Received>
+      <From>Access Systems &lt;accessys@smart.net&gt;</From>
+      <To>Jesper Tverskov &lt;jesper.tverskov@mail.tele.dk&gt;</To>
+      <Subject>Re: White text on black background</Subject>
+      <Text>
+        <Sent id="3.1">&amp;gt; I am just wondering if many users, disabilities or not, find white text on black background much easier to read than black on white. </Sent>
+        <Sent id="3.2">only way I will read the internet, PINE, LYNX default to white on black </Sent>
+        <Sent id="3.3">Bob </Sent>
+        <Sent id="3.4">&amp;quot;They that can give up essential liberty to obtain a little temporary safety deserve Neither liberty nor safety&amp;quot;, Benjamin Franklin </Sent>
+        <Sent id="3.5">- - - - - - - - - - - - - - - - - - - </Sent>
+        <Sent id="3.6">ASCII Ribbon Campaign accessBob </Sent>
+        <Sent id="3.7">NO HTML/PDF/RTF in e-mail accessys@smartnospam.net </Sent>
+        <Sent id="3.8">NO MSWord docs in e-mail Access Systems, engineers </Sent>
+        <Sent id="3.9">NO attachments in e-mail, *LINUX powered* access is a civil right </Sent>
+        <Sent id="3.10">*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*# </Sent>
+        <Sent id="3.11">THIS message and any attachments are CONFIDENTIAL and may be privileged. </Sent>
+        <Sent id="3.12">They are intended ONLY for the individual or entity named</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Thu Jun 05 20:13:56 -0700 2003</Received>
+      <From>Sandra Vassallo &lt;S.Vassallo@e-bility.com&gt;</From>
+      <To>w3c-wai-ig@w3.org</To>
+      <Subject>Re: White text on black background</Subject>
+      <Text>
+        <Sent id="4.1">&amp;gt; Hi </Sent>
+        <Sent id="4.2">&amp;gt; I am just wondering if many users, disabilities or not, find white text on black background much easier to read than black on white. </Sent>
+        <Sent id="4.3">&amp;gt; If it is the case I will include both in the style switcher I am making. </Sent>
+        <Sent id="4.4">&amp;gt; Best regards, </Sent>
+        <Sent id="4.5">&amp;gt; Jesper </Sent>
+        <Sent id="4.6">I am aware that some people also swop between different settings, ie they may choose to work with black text on a white background in the morning, then as their eyes tire they might change their preferences to white text on a black background. </Sent>
+        <Sent id="4.7">Also, when implementing the style switcher it is important not to prevent people from using their own style sheet or browser preferences. </Sent>
+        <Sent id="4.8">I have seen some switchers that do this and if the choices offered do not suit someone's needs it can be quite limiting. </Sent>
+        <Sent id="4.9">Cheers, </Sent>
+        <Sent id="4.10">Sandra. </Sent>
+        <Sent id="4.11">... </Sent>
+        <Sent id="4.12">e-bility Pty Ltd - Inclusive IT </Sent>
+        <Sent id="4.13">tel: (02) 9810 2216 </Sent>
+        <Sent id="4.14">email: S.Vassallo@e-bility.com </Sent>
+        <Sent id="4.15">e-bility web: http://www.e-bility.com </Sent>
+        <Sent id="4.16">Inclusive IT: http://www.inclusiveit.com.au/</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Thu Jun 05 20:33:29 -0700 2003</Received>
+      <From>Matthew Smith &lt;matt@kbc.net.au&gt;</From>
+      <To>WAI Interest Group &lt;w3c-wai-ig@w3.org&gt;</To>
+      <Subject>Re: White text on black background</Subject>
+      <Text>
+        <Sent id="5.1">Hi Jesper </Sent>
+        <Sent id="5.2">&amp;gt; I am just wondering if many users, disabilities or not, find white text on black background much easier to read than black on white. </Sent>
+        <Sent id="5.3">&amp;gt; If it is the case I will include both in the style switcher I am making. </Sent>
+        <Sent id="5.4">Will you be including any other colour schemes? </Sent>
+        <Sent id="5.5">Black on gold and black on certain shades of blue can improve readability for some dyslexics.* </Sent>
+        <Sent id="5.6">Cheers </Sent>
+        <Sent id="5.7">M </Sent>
+        <Sent id="5.8">*If anyone has done any study on this, specifically with the RGB triplets used in CSS, would they like to share? </Sent>
+        <Sent id="5.9">-- </Sent>
+        <Sent id="5.10">Matthew Smith </Sent>
+        <Sent id="5.11">IT Consultant - KBC, South Australia </Sent>
+        <Sent id="5.12">KBC Web Site http://www.kbc.net.au </Sent>
+        <Sent id="5.13">PGP Public Key http://gpg.mss.cx</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Jun 06 02:07:48 -0700 2003</Received>
+      <From>David Woolley &lt;david@djwhome.demon.co.uk&gt;</From>
+      <To>w3c-wai-ig@w3.org</To>
+      <Subject>Re: White text on black background</Subject>
+      <Text>
+        <Sent id="6.1">&amp;gt; I am just wondering if many users, disabilities or not, find white text on black background much easier to read than black on white. </Sent>
+        <Sent id="6.2">My understanding is that the original reason for using white (or green or orange) on black was that flicker is more obvious on large areas of solid white. </Sent>
+        <Sent id="6.3">Viewing GUIs on CRTs, I get the impression that some rasterisers on some fonts don't handle white on black well (you need to handle them differently because a white pixel is larger than a black pixel, to ensure that adjacent white pixels overlap, when using a write white device, like a typical CRT.</Sent>
+      </Text>
+    </DOC>
+  </thread>

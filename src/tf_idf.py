@@ -1,6 +1,7 @@
 import xml.etree.ElementTree as ET
 import re
 import math
+import decimal
 
 def tf_idf(root): 
 	tfList = []
@@ -33,7 +34,7 @@ def tf_idf(root):
 		for word in dct:
 			dct[word] = dct[word] / float(maxtf)		
 	
-	print tfList
+	#print tfList
 	
 	for dict1 in tfList:
 		for j in dict1:
@@ -43,9 +44,9 @@ def tf_idf(root):
 				df_dictionary.update({j:1})
 	
 	#print df_dictionary
-	print "========================"
+	#print "========================"
 	
-	print doc_count
+	#print doc_count
 	for word in df_dictionary:
 		idf_score = 0
 		val1 = (doc_count / (1 + df_dictionary[word]))
@@ -62,15 +63,35 @@ def tf_idf(root):
 			val1 = dict1[word]
 			val1 = val1 * idf_score
 			dict1.update({word:val1})
-	
-	print tfList	
+	#return tfList
+	#------------------------ tf-idf score for sentence
+	#tfList	 : [{},{},{}..] each dictionary is for a doc and has (word:tf_idf)
+	doc_ct=0
+	ans={}
+	for doc in root.iter('DOC'):
+		for text in doc.iter('Text'):
+			for sentence in text.iter('Sent'):
+				id=sentence.attrib['id']
+				score=0 #total tf-idf score of sentence
+				sentence.text = sentence.text.lower()
+				words = sentence.text.split(' ')
+				length=1+len(words) # sentence length
+				for i in words:
+					m = re.search("[a-z]+",i)
+					if m != None:
+						keyword = m.group()
+						if tfList[doc_ct].has_key(keyword):
+							score+=tfList[doc_ct][keyword]#add tf-idf of words of sentence
+				score=score*1.0/length #normalized
+				ans[id]	=round(decimal.Decimal(score),4)
+						
+		doc_ct+=1
+	return ans #has sentId:totalTF-idfScore key-val pair
+
 	
 	
 		
-filepath="splitted/chunk0.xml"
-tree = ET.parse(filepath)
-root = tree.getroot()
-tf_idf(root)
+
 
 
 

@@ -1,0 +1,99 @@
+  <thread>
+    <name>Text unavailable to sighted users but available to screen reader users</name>
+    <listno>077-4500595</listno>
+    <DOC>
+      <Received>Tue Mar 06 16:52:52 -0800 2001</Received>
+      <From>Graham Oliver &lt;graham_oliver@yahoo.com&gt;</From>
+      <To>w3c-wai-ig@w3.org</To>
+      <Subject>Text unavailable to sighted users but available to screen reader users</Subject>
+      <Text>
+        <Sent id="1.1">I have built a form which has a submit button on it. </Sent>
+        <Sent id="1.2">If the user activates the button and hasn't filled out the form correctly, a javascript 'alert' pop-up is presented to the user, giving more information. </Sent>
+        <Sent id="1.3">This appears to be in breach of checkpoint 10.1 </Sent>
+        <Sent id="1.4">http://www.w3.org/TR/WCAG10/wai-pageauth.html#tech-avoid-pop-ups </Sent>
+        <Sent id="1.5">Would it be acceptable to provide a warning message, something like 'Submitting this form may result in a pop-up dialog being displayed' before the submit button, in the same color as the background? </Sent>
+        <Sent id="1.6">Thus (I believe) making the text available to screen reader users but not to sighted users? </Sent>
+        <Sent id="1.7">Regards </Sent>
+        <Sent id="1.8">Graham Oliver </Sent>
+        <Sent id="1.9">__________________________________________________ </Sent>
+        <Sent id="1.10">Do You Yahoo!? </Sent>
+        <Sent id="1.11">Get email at your own domain with Yahoo! Mail. </Sent>
+        <Sent id="1.12">http://personal.mail.yahoo.com/</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Mar 07 18:54:21 -0800 2001</Received>
+      <From>David Woolley &lt;david@djwhome.demon.co.uk&gt;</From>
+      <To>w3c-wai-ig@w3.org</To>
+      <Subject>Re: Text unavailable to sighted users but available to screen reader users</Subject>
+      <Text>
+        <Sent id="2.1">&amp;gt; I have built a form which has a submit button on it. </Sent>
+        <Sent id="2.2">&amp;gt; If the user activates the button and hasn't filled out the form correctly, a javascript 'alert' pop-up is presented to the user, giving more information. </Sent>
+        <Sent id="2.3">&amp;gt; This appears to be in breach of checkpoint 10.1 </Sent>
+        <Sent id="2.4">&amp;gt; http://www.w3.org/TR/WCAG10/wai-pageauth.html#tech-avoid-pop-ups </Sent>
+        <Sent id="2.5">&amp;gt; Would it be acceptable to provide a warning message, something like 'Submitting this form may result in a pop-up dialog being displayed' before the submit button, in the same color as the background? </Sent>
+        <Sent id="2.6">&amp;gt; Thus (I believe) making the text available to screen reader users but not to sighted users? </Sent>
+        <Sent id="2.7">This will show up on any device that cannot display colours or doesn't understand the styling used to set the colours. </Sent>
+        <Sent id="2.8">It is a known trick for stuffing keywords for search engines and may result in the site being boycotted by major search engines. </Sent>
+        <Sent id="2.9">One is expecting a major change in content when one submits a form, so one of the main reasons for avoiding popups doesn't apply.</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Thu Mar 08 06:05:33 -0800 2001</Received>
+      <From>Charles McCathieNevile &lt;charles@w3.org&gt;</From>
+      <To>David Woolley &lt;david@djwhome.demon.co.uk&gt;</To>
+      <Subject>Re: Text unavailable to sighted users but available to screen reader users</Subject>
+      <Text>
+        <Sent id="3.1">It also depends on how the screen reader gets its content - </Sent>
+        <Sent id="3.2">readers that are too smart about colours (a useful feature) will realise that the text is invisible and skip it. </Sent>
+        <Sent id="3.3">(given the way this is normally used to stuff keywords in pages, it is not a bad practice). </Sent>
+        <Sent id="3.4">Charles McCN </Sent>
+        <Sent id="3.5">&amp;gt;&amp;gt; I have built a form which has a submit button on it. </Sent>
+        <Sent id="3.6">&amp;gt;&amp;gt; If the user activates the button and hasn't filled out the form correctly, a javascript 'alert' pop-up is presented to the user, giving more information. </Sent>
+        <Sent id="3.7">&amp;gt;&amp;gt; This appears to be in breach of checkpoint 10.1 </Sent>
+        <Sent id="3.8">&amp;gt;&amp;gt; http://www.w3.org/TR/WCAG10/wai-pageauth.html#tech-avoid-pop-ups </Sent>
+        <Sent id="3.9">&amp;gt;&amp;gt; Would it be acceptable to provide a warning message, something like 'Submitting this form may result in a pop-up dialog being displayed' before the submit button, in the same color as the background? </Sent>
+        <Sent id="3.10">&amp;gt;&amp;gt; Thus (I believe) making the text available to screen reader users but not to sighted users? </Sent>
+        <Sent id="3.11">&amp;gt; This will show up on any device that cannot display colours or doesn't understand the styling used to set the colours. </Sent>
+        <Sent id="3.12">&amp;gt; It is a known trick for stuffing keywords for search engines and may result in the site being boycotted by major search engines. </Sent>
+        <Sent id="3.13">&amp;gt; One is expecting a major change in content when one submits a form, so one of the main reasons for avoiding popups doesn't apply. </Sent>
+        <Sent id="3.14">-- </Sent>
+        <Sent id="3.15">Charles McCathieNevile http://www.w3.org/People/Charles phone: +61 409 134 136 </Sent>
+        <Sent id="3.16">W3C Web Accessibility Initiative http://www.w3.org/WAI fax: +1 617 258 5999 </Sent>
+        <Sent id="3.17">Location: I-cubed, 110 Victoria Street, Carlton VIC 3053, Australia </Sent>
+        <Sent id="3.18">(or W3C INRIA, Route des Lucioles, BP 93, 06902 Sophia Antipolis Cedex, France)</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Mar 09 02:53:13 -0800 2001</Received>
+      <From>Anthony Quinn &lt;anthony@frontend.com&gt;</From>
+      <To>"David Woolley" &lt;david@djwhome.demon.co.uk&gt; , &lt;w3c-wai-ig@w3.org&gt;</To>
+      <Subject>RE: Text unavailable to sighted users but available to screen reader users</Subject>
+      <Text>
+        <Sent id="4.1">Hi All, </Sent>
+        <Sent id="4.2">You could try using a spacer image and then put your message in the alt text. </Sent>
+        <Sent id="4.3">I don't know how that will behave in the screenreader but it may help get around the problem with the search engine. </Sent>
+        <Sent id="4.4">Anthony </Sent>
+        <Sent id="4.5">&amp;gt;&amp;gt; Would it be acceptable to provide a warning message, something like 'Submitting this form may result in a pop-up dialog being displayed' before the submit button, in the same color as the background? </Sent>
+        <Sent id="4.6">&amp;gt;&amp;gt; Thus (I believe) making the text available to screen reader users but not to sighted users? </Sent>
+        <Sent id="4.7">&amp;gt; This will show up on any device that cannot display colours or doesn't understand the styling used to set the colours. </Sent>
+        <Sent id="4.8">&amp;gt; It is a known trick for stuffing keywords for search engines and may result in the site being boycotted by major search engines. </Sent>
+        <Sent id="4.9">&amp;gt; One is expecting a major change in content when one submits a form, so one of the main reasons for avoiding popups doesn't apply.</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Mar 09 05:10:39 -0800 2001</Received>
+      <From>Jon Hanna &lt;jon@spinsol.com&gt;</From>
+      <To>&lt;w3c-wai-ig@w3.org&gt;</To>
+      <Subject>RE: Text unavailable to sighted users but available to screen reader users</Subject>
+      <Text>
+        <Sent id="5.1">&amp;gt; Hi All, </Sent>
+        <Sent id="5.2">&amp;gt; You could try using a spacer image and then put your message in the alt text. </Sent>
+        <Sent id="5.3">&amp;gt; I don't know how that will behave in the screenreader but it may help get around the problem with the search engine. </Sent>
+        <Sent id="5.4">Perhaps not, since putting spider-bait in alt attributes is just as old a search-engine as hiding stuff using colour. </Sent>
+        <Sent id="5.5">On the other hand there isn't really anyway I can think of for spiders to know whether they are being baited unless there is a lot of repetition of words other than &amp;quot;a&amp;quot;, &amp;quot;the&amp;quot;, etc. </Sent>
+        <Sent id="5.6">Spider-baiting in itself is quite a problem for users of text, whether sighted text-only users or users of enabling technologies. </Sent>
+        <Sent id="5.7">I've quite often come across sites with little for a text-only user to read but the keywords they want to be listed over repeated 50 times.</Sent>
+      </Text>
+    </DOC>
+  </thread>

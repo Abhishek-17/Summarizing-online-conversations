@@ -1,0 +1,128 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+html {
+	font-size: 100.01%;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	background-color: #FFFFFF;
+	background-image: url(images/bg.gif);
+	background-repeat: repeat-x;
+	color: #313131;
+	font-size: 12px;
+}
+
+img {
+    border:0;
+}ul {
+	list-style-type: none;
+}
+a {
+	color: #1b5790;
+	text-decoration: underline;
+}
+a:hover {
+	color: #e85d64;
+}
+a:focus {
+    outline: 0;
+}
+
+#wrap {
+	width: 750px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#main {
+	float: left;
+	width: 488px;
+}
+#header {
+	text-align: left;
+	height: 92px;
+}
+h1 {
+	font-size: 30px;
+	line-height: 30px;
+	font-weight: normal;
+	color: #1b5790;
+	letter-spacing: -1px;
+	padding-top: 24px;
+}
+.desc {
+	font-weight: bold;
+	margin-top: 4px;
+}
+#maincontent {
+	background-color: #FFFFFF;
+	background-image: url(images/mainbg.gif);
+	background-repeat: no-repeat;
+	background-position: top;
+	text-align: left;
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+#maincontent h2 {
+	font-size: 24px;
+	line-height: 24px;
+	color: #e85d64;
+	margin-bottom: 10px;
+	font-weight: normal;
+	letter-spacing: -1px ;
+}
+#maincontent p {
+	line-height: 1.4em;
+	margin-bottom: 10px;
+}
+
+#side {
+	background-image: url(images/bonsai.gif);
+	background-repeat: no-repeat;
+	background-position: left top;
+	float: right;
+	width: 254px;
+	padding-top: 173px;
+}
+#sidecontent {
+	background-color: #FFFFFF;
+	background-image: url(images/sidebg.gif);
+	background-repeat: no-repeat;
+	background-position: top;
+	padding-top: 10px;
+	padding-right: 40px;
+	padding-bottom: 10px;
+	padding-left: 40px;
+	text-align: left;
+}
+#sidecontent h3 {
+	font-size: 24px;
+	line-height: 24px;
+	font-weight: normal;
+	color: #313131;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+#sidecontent ul {
+	margin-left: 20px;
+}
+#sidecontent ul li {
+	line-height: 1.4em;
+	font-weight: bold;
+	display: block;
+}
+#sidecontent ul li a {
+	text-decoration: none;
+}
+#footer {
+	clear: both;
+	margin-top: 20px;
+	text-align: left;
+	padding-right: 10px;
+	padding-left: 10px;
+	font-size: 11px;
+}

@@ -1,0 +1,173 @@
+  <thread>
+    <name>Re: StarOffice/OpenOffice.org accessibility effort</name>
+    <listno>059-15393869</listno>
+    <DOC>
+      <Received>Sat Nov 17 18:50:44 -0800 2001</Received>
+      <From>Charles McCathieNevile &lt;charles@w3.org&gt;</From>
+      <To>&lt;Peter.Korn@sun.com&gt;</To>
+      <Subject>Re: StarOffice/OpenOffice.org accessibility effort</Subject>
+      <Text>
+        <Sent id="1.1">Peter, or other folks 
+</Sent>
+        <Sent id="1.2">Is there anyone from the OpenOffice or StarOffice projects who has time to represent the group on the W3C Authoring Tool Accessibility Guidelines working group, or to give us updates and feedback on how much those guidelines are implemented by the project? 
+</Sent>
+        <Sent id="1.3">The Guidelines are designed to apply to all tools used to produce content for the Web </Sent>
+        <Sent id="1.4">- both "HTML editors" and the range of other tools that people use to produce content, such as office productivity tools and media editing tools. 
+</Sent>
+        <Sent id="1.5">More information at http://www.w3.org/WAI/AU and guidelines (W3C Recommendation since Feb 2000) at http://www.w3.org/TR/ATAG10 
+</Sent>
+        <Sent id="1.6">cheers 
+</Sent>
+        <Sent id="1.7">Charles McCN 
+</Sent>
+        <Sent id="1.8">-- 
+</Sent>
+        <Sent id="1.9">Charles McCathieNevile http://www.w3.org/People/Charles phone: +61 409 134 136 
+</Sent>
+        <Sent id="1.10">W3C Web Accessibility Initiative http://www.w3.org/WAI fax: +1 617 258 5999 
+</Sent>
+        <Sent id="1.11">Location: 21 Mitchell street FOOTSCRAY Vic 3011, Australia 
+</Sent>
+        <Sent id="1.12">(or W3C INRIA, Route des Lucioles, BP 93, 06902 Sophia Antipolis Cedex, France) 
+</Sent>
+        <Sent id="1.13">&gt; Greetings, 
+</Sent>
+        <Sent id="1.14">&gt; The Sun Accessibility team is delighted to announce the establishment of the OpenOffice.org Accessibility Project. </Sent>
+        <Sent id="1.15">&gt; This work will also allow Sun to build accessibility into the StarOffice productivity suite. 
+</Sent>
+        <Sent id="1.16">[snip] 
+</Sent>
+        <Sent id="1.17">&gt; For details on the OpenOffice.org accessibility project, please see: 
+</Sent>
+        <Sent id="1.18">&gt; http://ui.openoffice.org/accessibility/ 
+</Sent>
+        <Sent id="1.19">&gt; For details on the OpenOffice.org UNO Accessibility API, please see: 
+</Sent>
+        <Sent id="1.20">&gt; http://ui.openoffice.org/accessibility/unoapi.html 
+</Sent>
+        <Sent id="1.21">&gt; To view the proposal for presentation document accessibility, please see: 
+</Sent>
+        <Sent id="1.22">&gt; http://ui.openoffice.org/accessibility/proposal-impress.html 
+</Sent>
+        <Sent id="1.23">&gt; On behalf of the Sun Microsystems Accessibility team, 
+</Sent>
+        <Sent id="1.24">&gt; Peter Korn 
+</Sent>
+        <Sent id="1.25">&gt; Sun Microsystems 
+</Sent>
+        <Sent id="1.26">&gt; access@sun.com 
+</Sent>
+        <Sent id="1.27">&gt; http://www.sun.com/access</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Mon Nov 19 18:30:25 -0800 2001</Received>
+      <From>Liddy Nevile &lt;liddy@motile.net&gt;</From>
+      <To>WAI AU Guidelines &lt;w3c-wai-au@w3.org&gt;</To>
+      <Subject>apologies &amp;ndash;&amp;ndash;</Subject>
+      <Text>
+        <Sent id="2.1">I was all set up and ready to go but missed my alarm and the call.... </Sent>
+        <Sent id="2.2">sorry 
+</Sent>
+        <Sent id="2.3">I wanted to discuss the possibility of a 'summit' at www11 </Sent>
+        <Sent id="2.4">- I think we have a full-day workshop on the tutorial workshop day but I wanted to check the agenda and format for that day. </Sent>
+        <Sent id="2.5">See next email. 
+</Sent>
+        <Sent id="2.6">Liddy</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Mon Nov 19 18:38:19 -0800 2001</Received>
+      <From>Charles McCathieNevile &lt;charles@w3.org&gt;</From>
+      <To>Liddy Nevile &lt;liddy@motile.net&gt;</To>
+      <Subject>Re: apologies &amp;ndash;&amp;ndash;</Subject>
+      <Text>
+        <Sent id="3.1">Me too, sorry folks. </Sent>
+        <Sent id="3.2">Was anyone on the call? 
+</Sent>
+        <Sent id="3.3">chaals 
+</Sent>
+        <Sent id="3.4">&gt; I was all set up and ready to go but missed my alarm and the call.... </Sent>
+        <Sent id="3.5">&gt; sorry</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Tue Nov 20 09:37:49 -0800 2001</Received>
+      <From>Jan Richards &lt;jan.richards@utoronto.ca&gt;</From>
+      <To>WAI AU Guidelines &lt;w3c-wai-au@w3.org&gt;</To>
+      <Subject>Re: apologies &amp;ndash;&amp;ndash;</Subject>
+      <Text>
+        <Sent id="4.1">Sorry, I missed too. </Sent>
+        <Sent id="4.2">I slept in after flying in late. 
+</Sent>
+        <Sent id="4.3">- Jan 
+</Sent>
+        <Sent id="4.4">&gt; Me too, sorry folks. </Sent>
+        <Sent id="4.5">&gt; Was anyone on the call? 
+</Sent>
+        <Sent id="4.6">&gt; chaals 
+</Sent>
+        <Sent id="4.7">&gt; I was all set up and ready to go but missed my alarm and the call.... </Sent>
+        <Sent id="4.8">&gt; sorry 
+</Sent>
+        <Sent id="4.9">-- 
+</Sent>
+        <Sent id="4.10">Cheers, 
+</Sent>
+        <Sent id="4.11">Jan 
+</Sent>
+        <Sent id="4.12">/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\ 
+</Sent>
+        <Sent id="4.13">Jan Richards 
+</Sent>
+        <Sent id="4.14">UI Design Specialist 
+</Sent>
+        <Sent id="4.15">Adaptive Technology Resource Centre (ATRC) 
+</Sent>
+        <Sent id="4.16">University of Toronto 
+</Sent>
+        <Sent id="4.17">jan.richards@utoronto.ca 
+</Sent>
+        <Sent id="4.18">Phone: (416) 946-7060 
+</Sent>
+        <Sent id="4.19">Fax: (416) 971-2896 
+</Sent>
+        <Sent id="4.20">/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Fri Nov 23 09:42:17 -0800 2001</Received>
+      <From>Jutta Treviranus &lt;jutta.treviranus@utoronto.ca&gt;</From>
+      <To>Charles McCathieNevile &lt;charles@w3.org&gt; , Liddy Nevile &lt;liddy@motile.net&gt;</To>
+      <Cc>WAI AU Guidelines &lt;w3c-wai-au@w3.org&gt;</Cc>
+      <Subject>Re: apologies &amp;ndash;&amp;ndash;</Subject>
+      <Text>
+        <Sent id="5.1">We did hold a short meeting with Phil and Heather on the call. </Sent>
+        <Sent id="5.2">The Summit was discussed. </Sent>
+        <Sent id="5.3">Heather will not be able to make it due to wedding plans, IBM will be there. </Sent>
+        <Sent id="5.4">Everyone thought it was a good opportunity to pull together the various efforts. 
+</Sent>
+        <Sent id="5.5">Jutta 
+</Sent>
+        <Sent id="5.6">&gt; Me too, sorry folks. </Sent>
+        <Sent id="5.7">&gt; Was anyone on the call? 
+</Sent>
+        <Sent id="5.8">&gt; chaals 
+</Sent>
+        <Sent id="5.9">&gt; I was all set up and ready to go but missed my alarm and the call.... </Sent>
+        <Sent id="5.10">&gt; sorry</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Sat Nov 24 00:22:10 -0800 2001</Received>
+      <From>Liddy Nevile &lt;liddy@motile.net&gt;</From>
+      <To>WAI AU Guidelines &lt;w3c-wai-au@w3.org&gt;</To>
+      <Subject>Re: WWW11 workshop</Subject>
+      <Text>
+        <Sent id="6.1">I have submitted a request to hold this </Sent>
+        <Sent id="6.2">- if we are successful we can decide how to do it and we do not need to go through papers submission etc .... 
+</Sent>
+        <Sent id="6.3">Liddy</Sent>
+      </Text>
+    </DOC>
+  </thread>

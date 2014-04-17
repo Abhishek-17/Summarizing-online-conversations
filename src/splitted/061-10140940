@@ -1,0 +1,154 @@
+  <thread>
+    <name>Non-geek version of guidelines</name>
+    <listno>061-10140940</listno>
+    <DOC>
+      <Received>Mon Feb 21 15:37:58 -0800 2000</Received>
+      <From>Alan Cantor &lt;acantor@interlog.com&gt;</From>
+      <To>"Education and Outreach Working Group" &lt;w3c-wai-eo@w3.org&gt;</To>
+      <Subject>Non-geek version of guidelines</Subject>
+      <Text>
+        <Sent id="1.1">Hello Education and Outreach Colleagues, </Sent>
+        <Sent id="1.2">I was talking to a friend today -- an amateur web developer and professional disability rights advocate -- who complained that the W3C guidelines are overly technical for her needs. </Sent>
+        <Sent id="1.3">She wants a plain language version of the guidelines. </Sent>
+        <Sent id="1.4">As she is fairly technologically savvy, she expressed frustration at having to work so hard to understand what must be done to make accessible web pages. </Sent>
+        <Sent id="1.5">To illustrate her point, she read me the Quick Tip card description of Image map. </Sent>
+        <Sent id="1.6">I agree with her, the tone is definitely geeky. </Sent>
+        <Sent id="1.7">But not everyone who develops web pages speaks the language of client-side servers and hotspots. </Sent>
+        <Sent id="1.8">I would guess that most people who develop web pages are amateurs (in the original sense of the word: from amore or amour: an activity done out of love.) </Sent>
+        <Sent id="1.9">Will these people freeze when they read &amp;quot;make line by line reading sensible?&amp;quot; or &amp;quot;Use CSS?&amp;quot; </Sent>
+        <Sent id="1.10">How about we create a &amp;quot;user-friendly&amp;quot; version of the Web Content guidelines? </Sent>
+        <Sent id="1.11">Maybe a primer. </Sent>
+        <Sent id="1.12">Alan</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Mon Feb 21 16:30:26 -0800 2000</Received>
+      <From>Robert Neff &lt;robneff@home.com&gt;</From>
+      <To>"Education and Outreach Working Group" &lt;w3c-wai-eo@w3.org&gt;</To>
+      <Subject>Re: Non-geek version of guidelines</Subject>
+      <Text>
+        <Sent id="2.1">you are not the first to ask about this...</Sent>
+        <Sent id="2.2">this si a part of obtaining buy-in from the user community so implementation will go easier. </Sent>
+        <Sent id="2.3">Remember my comments from toronto last year, &amp;quot;create a wcag for dummies&amp;quot; version.... </Sent>
+        <Sent id="2.4">hey, are there going to be EO, WAI and WCAG meetings at the www9? </Sent>
+        <Sent id="2.5">/rob </Sent>
+        <Sent id="2.6">&amp;gt; Hello Education and Outreach Colleagues, </Sent>
+        <Sent id="2.7">&amp;gt; I was talking to a friend today -- an amateur web developer and professional disability rights advocate -- who complained that the W3C guidelines are overly technical for her needs. </Sent>
+        <Sent id="2.8">&amp;gt; She wants a plain language version of the guidelines. </Sent>
+        <Sent id="2.9">&amp;gt; As she is fairly technologically savvy, she expressed frustration at having to work so hard to understand what must be done to make accessible web pages. </Sent>
+        <Sent id="2.10">&amp;gt; To illustrate her point, she read me the Quick Tip card description of Image map. </Sent>
+        <Sent id="2.11">&amp;gt; I agree with her, the tone is definitely geeky. </Sent>
+        <Sent id="2.12">&amp;gt; But not everyone who develops web pages speaks the language of client-side servers and hotspots. </Sent>
+        <Sent id="2.13">&amp;gt; I would guess that most people who develop web pages are amateurs (in the original sense of the word: from amore or amour: an activity done out of love.) </Sent>
+        <Sent id="2.14">&amp;gt; Will these people freeze when they read &amp;quot;make line by line reading sensible?&amp;quot; or &amp;quot;Use CSS?&amp;quot; </Sent>
+        <Sent id="2.15">&amp;gt; How about we create a &amp;quot;user-friendly&amp;quot; version of the Web Content guidelines? </Sent>
+        <Sent id="2.16">&amp;gt; Maybe a primer. </Sent>
+        <Sent id="2.17">&amp;gt; Alan</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Tue Feb 22 07:59:56 -0800 2000</Received>
+      <From>William Loughborough &lt;love26@gorge.net&gt;</From>
+      <To>Alan Cantor &lt;acantor@interlog.com&gt;</To>
+      <Subject>Re: Non-geek version of guidelines</Subject>
+      <Text>
+        <Sent id="3.1">&amp;gt; How about we create a &amp;quot;user-friendly&amp;quot; version of the Web Content guidelines? </Sent>
+        <Sent id="3.2">&amp;gt; Maybe a primer. </Sent>
+        <Sent id="3.3">WL: Great idea. </Sent>
+        <Sent id="3.4">Would you take that as an action item? </Sent>
+        <Sent id="3.5">-- </Sent>
+        <Sent id="3.6">Love. </Sent>
+        <Sent id="3.7">ACCESSIBILITY IS RIGHT - NOT PRIVILEGE </Sent>
+        <Sent id="3.8">http://dicomp.pair.com</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Tue Feb 22 15:50:47 -0800 2000</Received>
+      <From>Chuck Letourneau &lt;cpl@starlingweb.com&gt;</From>
+      <To>"Alan Cantor" &lt;acantor@interlog.com&gt;</To>
+      <Cc>w3c-wai-eo@w3.org</Cc>
+      <Subject>Re: Non-geek version of guidelines</Subject>
+      <Text>
+        <Sent id="4.1">What about the WCAG Curriculum? </Sent>
+        <Sent id="4.2">Particularly the Example Set of the WCAG Curriculum? </Sent>
+        <Sent id="4.3">Curriculum: http://www.starlingweb.com/wai/wcag/ </Sent>
+        <Sent id="4.4">Example set: http://www.starlingweb.com/wai/wcag/sam1-0.htm </Sent>
+        <Sent id="4.5">Please note that the curriculum will be moving to W3C space in the next week or so. </Sent>
+        <Sent id="4.6">Don't bookmark pages in the above site as they will soon be invalid. </Sent>
+        <Sent id="4.7">Once the curriculum is in the W3C space, WAI EO will likely start promoting it more heavily. </Sent>
+        <Sent id="4.8">Regards, </Sent>
+        <Sent id="4.9">Chuck </Sent>
+        <Sent id="4.10">&amp;gt; Hello Education and Outreach Colleagues, </Sent>
+        <Sent id="4.11">&amp;gt; I was talking to a friend today -- an amateur web developer and professional disability rights advocate -- who complained that the W3C guidelines are overly technical for her needs. </Sent>
+        <Sent id="4.12">&amp;gt; She wants a plain language version of the guidelines. </Sent>
+        <Sent id="4.13">&amp;gt; As she is fairly technologically savvy, she expressed frustration at having to work so hard to understand what must be done to make accessible web pages. </Sent>
+        <Sent id="4.14">&amp;gt; To illustrate her point, she read me the Quick Tip card description of Image map. </Sent>
+        <Sent id="4.15">&amp;gt; I agree with her, the tone is definitely geeky. </Sent>
+        <Sent id="4.16">&amp;gt; But not everyone who develops web pages speaks the language of client-side servers and hotspots. </Sent>
+        <Sent id="4.17">&amp;gt; I would guess that most people who develop web pages are amateurs (in the original sense of the word: from amore or amour: an activity done out of love.) </Sent>
+        <Sent id="4.18">&amp;gt; Will these people freeze when they read &amp;quot;make line by line reading sensible?&amp;quot; or &amp;quot;Use CSS?&amp;quot; </Sent>
+        <Sent id="4.19">&amp;gt; How about we create a &amp;quot;user-friendly&amp;quot; version of the Web Content guidelines? </Sent>
+        <Sent id="4.20">&amp;gt; Maybe a primer. </Sent>
+        <Sent id="4.21">&amp;gt; Alan </Sent>
+        <Sent id="4.22">---- </Sent>
+        <Sent id="4.23">Starling Access Services </Sent>
+        <Sent id="4.24">&amp;quot;Access A World Of Possibility&amp;quot; </Sent>
+        <Sent id="4.25">e-mail: info@starlingweb.com </Sent>
+        <Sent id="4.26">URL: http://www.starlingweb.com </Sent>
+        <Sent id="4.27">Phone: 613-820-2272 FAX: 613-820-6983</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Wed Feb 23 03:59:31 -0800 2000</Received>
+      <From>Jonathan Chetwynd &lt;jay@peepo.com&gt;</From>
+      <To>&lt;love26@gorge.net&gt; ,"Alan Cantor" &lt;acantor@interlog.com&gt;</To>
+      <Cc>"Education and Outreach Working Group" &lt;w3c-wai-eo@w3.org&gt;</Cc>
+      <Subject>Re: Non-geek version of guidelines</Subject>
+      <Text>
+        <Sent id="5.1">Please take a look at www.peepo.com/access for a first small attempt at this. </Sent>
+        <Sent id="5.2">If you are prepared to create something else, please try to use good examples rather than text. </Sent>
+        <Sent id="5.3">(as in QED) and post the URI so we can take a look. </Sent>
+        <Sent id="5.4">jay@peepo.com </Sent>
+        <Sent id="5.5">Jonathan Chetwynd </Sent>
+        <Sent id="5.6">Special needs teacher / web accessibility consultant </Sent>
+        <Sent id="5.7">&amp;gt;&amp;gt; How about we create a &amp;quot;user-friendly&amp;quot; version of the Web Content guidelines? </Sent>
+        <Sent id="5.8">&amp;gt;&amp;gt; Maybe a primer. </Sent>
+        <Sent id="5.9">&amp;gt; WL: Great idea. </Sent>
+        <Sent id="5.10">&amp;gt; Would you take that as an action item? </Sent>
+        <Sent id="5.11">&amp;gt; -- </Sent>
+        <Sent id="5.12">&amp;gt; Love. </Sent>
+        <Sent id="5.13">&amp;gt; ACCESSIBILITY IS RIGHT - NOT PRIVILEGE </Sent>
+        <Sent id="5.14">&amp;gt; http://dicomp.pair.com</Sent>
+      </Text>
+    </DOC>
+    <DOC>
+      <Received>Thu Mar 02 23:23:19 -0800 2000</Received>
+      <From>Judy Brewer &lt;jbrewer@w3.org&gt;</From>
+      <To>"Jonathan Chetwynd" &lt;jay@peepo.com&gt; , &lt;love26@gorge.net&gt; ,"Alan Cantor" &lt;acantor@interlog.com&gt;</To>
+      <Cc>"Education and Outreach Working Group" &lt;w3c-wai-eo@w3.org&gt;</Cc>
+      <Subject>Re: Non-geek version of guidelines</Subject>
+      <Text>
+        <Sent id="6.1">Got a &amp;quot;could not connect to remote server&amp;quot; from both links at http://www.peepo.com/access </Sent>
+        <Sent id="6.2">- Judy </Sent>
+        <Sent id="6.3">&amp;gt; Please take a look at www.peepo.com/access for a first small attempt at this. </Sent>
+        <Sent id="6.4">&amp;gt; If you are prepared to create something else, please try to use good examples rather than text. </Sent>
+        <Sent id="6.5">&amp;gt; (as in QED) and post the URI so we can take a look. </Sent>
+        <Sent id="6.6">&amp;gt; jay@peepo.com </Sent>
+        <Sent id="6.7">&amp;gt; Jonathan Chetwynd </Sent>
+        <Sent id="6.8">&amp;gt; Special needs teacher / web accessibility consultant </Sent>
+        <Sent id="6.9">&amp;gt;&amp;gt;&amp;gt; How about we create a &amp;quot;user-friendly&amp;quot; version of the Web Content guidelines? </Sent>
+        <Sent id="6.10">&amp;gt;&amp;gt;&amp;gt; Maybe a primer. </Sent>
+        <Sent id="6.11">&amp;gt;&amp;gt; WL: Great idea. </Sent>
+        <Sent id="6.12">&amp;gt;&amp;gt; Would you take that as an action item? </Sent>
+        <Sent id="6.13">&amp;gt;&amp;gt; -- </Sent>
+        <Sent id="6.14">&amp;gt;&amp;gt; Love. </Sent>
+        <Sent id="6.15">&amp;gt;&amp;gt; ACCESSIBILITY IS RIGHT - NOT PRIVILEGE </Sent>
+        <Sent id="6.16">&amp;gt;&amp;gt; http://dicomp.pair.com </Sent>
+        <Sent id="6.17">-- </Sent>
+        <Sent id="6.18">Judy Brewer jbrewer@w3.org +1.617.258.9741 http://www.w3.org/WAI </Sent>
+        <Sent id="6.19">Director, Web Accessibility Initiative (WAI) International Program Office </Sent>
+        <Sent id="6.20">World Wide Web Consortium (W3C) </Sent>
+        <Sent id="6.21">MIT/LCS Room NE43-355, 545 Technology Square, Cambridge, MA, 02139, USA</Sent>
+      </Text>
+    </DOC>
+  </thread>
