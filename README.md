@@ -1,26 +1,23 @@
 	
-##############
-#  README    # 
-##############
 
 
-######################
-  Basic Description
-######################
+
+#Basic Description
+
 
 Summarization has emerged as an increasingly useful approach to tackle the problem of information overload. Extracting information from online conversations can be of very good commercial and educational value. But majority of this information is present as noisy unstructured text making traditional document summarization techniques difficult to apply. In this project, we propose a novel approach to address the problem of conversation summarization. We develop an automatic text summarizer which extracts sentences from the email conversations to form a summary. Our approach consists of three phases. In the first phase, we prepare the dataset for usage by correcting spellings and segmenting the text. In the second phase, we represent each sentence by a set of predefined features. Finally, in the third phase we use a machine learning algorithm to train the summarizer on the set of feature vectors. We also a developed an interface which takes as input the document to be saummarized and retuns an extractive summary.
 
 
-#############################################
-    How to run summarizer from Commandline
-#############################################
 
-#  python summarize.py 'path of test chunk'
+#How to run summarizer from Commandline
 
 
-######################################
-    How to run summarizer from UI
-######################################
+python summarize.py 'path of test chunk'
+
+
+
+#How to run summarizer from UI
+
 
 1. Copy all the files/codes to the /var/www folder or your own htdocs folder of the apache server.
 2. Run http://localhost/index.php (or path to the index.php)
@@ -29,12 +26,11 @@ Summarization has emerged as an increasingly useful approach to tackle the probl
 4. The system would show the important sentences (summary) and their corresponding sentence ids on the web page
 
 
-#############################################
-Instructions about test and summary-id files 
-#############################################
 
-1.	The sample test data file should have content in following format -
+#Instructions about test and summary-id files 
 
+
+1.	The sample test data file should have content in following format (not correctly shown here. download this file and open it in text editor)-
 
 <thread>
     <name>Try Unsubscribing&amp;ndash;&amp;ndash;You Can't</name>
@@ -75,9 +71,9 @@ Instructions about test and summary-id files
 	2.3
 
 
-#######################################
-  Files/Folders and their Descriptions
-#######################################
+
+#Files/Folders and their Descriptions
+
 
 1. annotation.xml: tagged xml corpus
 
@@ -113,10 +109,8 @@ Instructions about test and summary-id files
 
 17. SummaryThreads : folder havin tagged data
 
+#Requirements/Dependencies
 
-################################
-    Requirements/Dependencies
-################################
 
 1. Apache server (for UI index.php only )
 2. python 2.7 
