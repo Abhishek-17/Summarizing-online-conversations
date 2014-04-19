@@ -21,7 +21,7 @@ python summarize.py 'path of test chunk'
 
 1. Copy all the files/codes to the /var/www folder or your own htdocs folder of the apache server.
 2. Run http://localhost/index.php (or path to the index.php)
-2. Upload the sample test data file which has one thread in the above format.
+2. Upload the sample test data file which has one thread in the below given format.
 3. Optionally upload the summary file to get precision and recall of the summarizer
 4. The system would show the important sentences (summary) and their corresponding sentence ids on the web page
 
@@ -75,9 +75,9 @@ python summarize.py 'path of test chunk'
 #Files/Folders and their Descriptions
 
 
-1. annotation.xml: tagged xml corpus
+1. annotation.xml: tagged xml corpus
 
-2. centroid_coherence.py: calculated the centroid-coherence of the sentences in the thread
+2. centroid_coherence.py: calculates the centroid-coherence of the sentences in the thread
 
 3. createTestDataset.py: generates the test dasta from the test xml file in the format suitable to feed to the nltk naive bayes classifier.
 
@@ -112,6 +112,6 @@ python summarize.py 'path of test chunk'
 #Requirements/Dependencies
 
 
-1. Apache server (for UI index.php only )
+1. Apache server (for GUI index.php only )
 2. python 2.7 
 3. NLTK library   ( instructions to install in link : http://www.nltk.org/install.html )
